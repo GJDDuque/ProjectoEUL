@@ -1,0 +1,27 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     :: Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: Thu Oct 12 17:57:31 2017
+
+   Origem : C:\GitHub\EUL\EUL\EUL\Umbraco\
+     Dest : C:\GitHub\EUL\EUL\EUL\App_Data\NuGetBackup\20171012-175731\Umbraco\
+
+    Fichs : *.*
+	    
+  Op‡äes : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\GitHub\EUL\EUL\EUL\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total  Copiados IgnoradosErro de correspondˆnciaCOM FALHAS    Extras
+    Dirs :         1         0         1         0         0         0
+Ficheiros :         0         0         0         0         0         0
+   Bytes :         0         0         0         0         0         0
+   Horas :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+Conclu¡do : Thu Oct 12 17:57:31 2017

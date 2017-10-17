@@ -1,0 +1,1605 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     :: Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: Thu Oct 12 17:57:31 2017
+
+   Origem : C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\
+     Dest : C:\GitHub\EUL\EUL\EUL\Umbraco\
+
+    Fichs : *.*
+	    
+Fichs Exc : UI.xml
+	    
+  Op‡äes : *.* /S /E /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  10	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\
+	    Novo Ficheiro  		    2359	ClientRedirect.aspx  0%  100%  
+	    Novo Ficheiro  		    1442	create.aspx  0%  100%  
+	    Novo Ficheiro  		     792	endPreview.aspx  0%  100%  
+	    Novo Ficheiro  		    1624	Logout.aspx  0%  100%  
+	    Novo Ficheiro  		     492	macroResultWrapper.aspx  0%  100%  
+	    Novo Ficheiro  		      61	ping.aspx  0%  100%  
+	    Novo Ficheiro  		     891	publishStatus.aspx  0%  100%  
+	    Novo Ficheiro  		     179	tree.aspx  0%  100%  
+	    Novo Ficheiro  		    1887	treeInit.aspx  0%  100%  
+	    Novo Ficheiro  		     126	umbraco.aspx  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Actions\
+	    Novo Ficheiro  		    1155	delete.aspx  0%  100%  
+	    Novo Ficheiro  		     480	editContent.aspx  0%  100%  
+	    Novo Ficheiro  		     471	preview.aspx  0%  100%  
+	    Novo Ficheiro  		    1203	publish.aspx  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\css\
+	    Novo Ficheiro  		   38260	canvasdesigner.css  0%  100%  
+	    Novo Ficheiro  		   35096	installer.css  0%  100%  
+	    Novo Ficheiro  		    6585	nonodes.style.min.css  0%  100%  
+	    Novo Ficheiro  		  334382	umbraco.css  0%   39%   78%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\fonts\
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\fonts\helveticons\
+	    Novo Ficheiro  		  117324	helveticons.eot  0%  100%  
+	    Novo Ficheiro  		  793966	helveticons.svg  0%   33%   66%   99%  100%  
+	    Novo Ficheiro  		  117160	helveticons.ttf  0%  100%  
+	    Novo Ficheiro  		  294540	helveticons.woff  0%   44%   89%  100%  
+	  New Dir         32	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\fonts\lato\
+	    Novo Ficheiro  		   66110	LatoLatin-Black.eot  0%  100%  
+	    Novo Ficheiro  		  144228	LatoLatin-Black.ttf  0%   90%  100%  
+	    Novo Ficheiro  		   70460	LatoLatin-Black.woff  0%  100%  
+	    Novo Ficheiro  		   43456	LatoLatin-Black.woff2  0%  100%  
+	    Novo Ficheiro  		   67322	LatoLatin-BlackItalic.eot  0%  100%  
+	    Novo Ficheiro  		  150720	LatoLatin-BlackItalic.ttf  0%   86%  100%  
+	    Novo Ficheiro  		   72372	LatoLatin-BlackItalic.woff  0%  100%  
+	    Novo Ficheiro  		   44316	LatoLatin-BlackItalic.woff2  0%  100%  
+	    Novo Ficheiro  		   68209	LatoLatin-Bold.eot  0%  100%  
+	    Novo Ficheiro  		  146156	LatoLatin-Bold.ttf  0%   89%  100%  
+	    Novo Ficheiro  		   72376	LatoLatin-Bold.woff  0%  100%  
+	    Novo Ficheiro  		   44380	LatoLatin-Bold.woff2  0%  100%  
+	    Novo Ficheiro  		   69528	LatoLatin-BoldItalic.eot  0%  100%  
+	    Novo Ficheiro  		  149756	LatoLatin-BoldItalic.ttf  0%   87%  100%  
+	    Novo Ficheiro  		   73700	LatoLatin-BoldItalic.woff  0%  100%  
+	    Novo Ficheiro  		   45036	LatoLatin-BoldItalic.woff2  0%  100%  
+	    Novo Ficheiro  		   69771	LatoLatin-Italic.eot  0%  100%  
+	    Novo Ficheiro  		  153688	LatoLatin-Italic.ttf  0%   85%  100%  
+	    Novo Ficheiro  		   74708	LatoLatin-Italic.woff  0%  100%  
+	    Novo Ficheiro  		   45388	LatoLatin-Italic.woff2  0%  100%  
+	    Novo Ficheiro  		   67508	LatoLatin-Light.eot  0%  100%  
+	    Novo Ficheiro  		  151856	LatoLatin-Light.ttf  0%   86%  100%  
+	    Novo Ficheiro  		   72604	LatoLatin-Light.woff  0%  100%  
+	    Novo Ficheiro  		   43468	LatoLatin-Light.woff2  0%  100%  
+	    Novo Ficheiro  		   68553	LatoLatin-LightItalic.eot  0%  100%  
+	    Novo Ficheiro  		  153096	LatoLatin-LightItalic.ttf  0%   85%  100%  
+	    Novo Ficheiro  		   73444	LatoLatin-LightItalic.woff  0%  100%  
+	    Novo Ficheiro  		   44156	LatoLatin-LightItalic.woff2  0%  100%  
+	    Novo Ficheiro  		   68135	LatoLatin-Regular.eot  0%  100%  
+	    Novo Ficheiro  		  148540	LatoLatin-Regular.ttf  0%   88%  100%  
+	    Novo Ficheiro  		   72456	LatoLatin-Regular.woff  0%  100%  
+	    Novo Ficheiro  		   43760	LatoLatin-Regular.woff2  0%  100%  
+	  New Dir          9	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\fonts\opensans\
+	    Novo Ficheiro  		  217360	OpenSans-Regular.ttf  0%   60%  100%  
+	    Novo Ficheiro  		   19836	OpenSans-Regular-webfont.eot  0%  100%  
+	    Novo Ficheiro  		  121229	OpenSans-Regular-webfont.svg  0%  100%  
+	    Novo Ficheiro  		   38232	OpenSans-Regular-webfont.ttf  0%  100%  
+	    Novo Ficheiro  		   22660	OpenSans-Regular-webfont.woff  0%  100%  
+	    Novo Ficheiro  		   20028	OpenSans-Semibold-webfont.eot  0%  100%  
+	    Novo Ficheiro  		  120293	OpenSans-Semibold-webfont.svg  0%  100%  
+	    Novo Ficheiro  		   39476	OpenSans-Semibold-webfont.ttf  0%  100%  
+	    Novo Ficheiro  		   22908	OpenSans-Semibold-webfont.woff  0%  100%  
+	  New Dir          7	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\img\
+	    Novo Ficheiro  		     165	checkered-background.png  0%  100%  
+	    Novo Ficheiro  		     957	checkered-background-20.png  0%  100%  
+	    Novo Ficheiro  		  317197	installer.jpg  0%   41%   82%  100%  
+	    Novo Ficheiro  		   23155	loader.gif  0%  100%  
+	    Novo Ficheiro  		    1746	logo.png  0%  100%  
+	    Novo Ficheiro  		  237538	nonodesbg.jpg  0%   55%  100%  
+	    Novo Ficheiro  		   14993	transparent.png  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\img\application\
+	    Novo Ficheiro  		    1175	logo.png  0%  100%  
+	    Novo Ficheiro  		    2433	logo@2x.png  0%  100%  
+	    Novo Ficheiro  		    3796	logo@3x.png  0%  100%  
+	    Novo Ficheiro  		    1280	logo_black.png  0%  100%  
+	    Novo Ficheiro  		    1333	logo_white.png  0%  100%  
+	  New Dir         11	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\img\applicationIcons\
+	    Novo Ficheiro  		    1139	content.png  0%  100%  
+	    Novo Ficheiro  		    1581	default.png  0%  100%  
+	    Novo Ficheiro  		    1376	developer.png  0%  100%  
+	    Novo Ficheiro  		    1702	help.svg  0%  100%  
+	    Novo Ficheiro  		    7364	hlvticons-umbraco.svg  0%  100%  
+	    Novo Ficheiro  		    1386	media.png  0%  100%  
+	    Novo Ficheiro  		    1342	members.png  0%  100%  
+	    Novo Ficheiro  		    1179	search.png  0%  100%  
+	    Novo Ficheiro  		    1612	settings.png  0%  100%  
+	    Novo Ficheiro  		    2828	tree-arrow.png  0%  100%  
+	    Novo Ficheiro  		    1304	users.png  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\img\forms\
+	    Novo Ficheiro  		   37864	installer-background.png  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\img\uploader\
+	    Novo Ficheiro  		    1738	upload-illustration.png  0%  100%  
+	    Novo Ficheiro  		    1400	upload-illustration.svg  0%  100%  
+	  New Dir         11	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\assets\less\
+	    Novo Ficheiro  		     715	background.less  0%  100%  
+	    Novo Ficheiro  		    1894	border.less  0%  100%  
+	    Novo Ficheiro  		     370	color.less  0%  100%  
+	    Novo Ficheiro  		     817	googlefontpicker.less  0%  100%  
+	    Novo Ficheiro  		     831	gridRow.less  0%  100%  
+	    Novo Ficheiro  		    1872	layout.less  0%  100%  
+	    Novo Ficheiro  		    1135	margin.less  0%  100%  
+	    Novo Ficheiro  		    1156	padding.less  0%  100%  
+	    Novo Ficheiro  		    2247	radius.less  0%  100%  
+	    Novo Ficheiro  		     639	shadow.less  0%  100%  
+	    Novo Ficheiro  		     473	slider.less  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Config\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Config\Create\
+	  New Dir         20	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Config\Lang\
+	    Novo Ficheiro  		   67283	cs.xml  0%  100%  
+	    Novo Ficheiro  		   99089	da.xml  0%  100%  
+	    Novo Ficheiro  		   71290	de.xml  0%  100%  
+	    Novo Ficheiro  		  110990	en.xml  0%  100%  
+	    Novo Ficheiro  		  110973	en_us.xml  0%  100%  
+	    Novo Ficheiro  		   67158	es.xml  0%  100%  
+	    Novo Ficheiro  		  109862	fr.xml  0%  100%  
+	    Novo Ficheiro  		   62959	he.xml  0%  100%  
+	    Novo Ficheiro  		   63339	it.xml  0%  100%  
+	    Novo Ficheiro  		   87543	ja.xml  0%  100%  
+	    Novo Ficheiro  		   59424	ko.xml  0%  100%  
+	    Novo Ficheiro  		   66376	nb.xml  0%  100%  
+	    Novo Ficheiro  		   92643	nl.xml  0%  100%  
+	    Novo Ficheiro  		  107449	pl.xml  0%  100%  
+	    Novo Ficheiro  		   58021	pt.xml  0%  100%  
+	    Novo Ficheiro  		  163377	ru.xml  0%   80%  100%  
+	    Novo Ficheiro  		   67497	sv.xml  0%  100%  
+	    Novo Ficheiro  		   67332	tr.xml  0%  100%  
+	    Novo Ficheiro  		   90429	zh.xml  0%  100%  
+	    Novo Ficheiro  		   81912	zh_tw.xml  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Controls\
+	    Novo Ficheiro  		     309	ProgressBar.ascx  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Controls\Tree\
+	    Novo Ficheiro  		      82	CustomTreeService.asmx  0%  100%  
+	    Novo Ficheiro  		    2725	TreeControl.ascx  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Create\
+	    Novo Ficheiro  		    1039	language.ascx  0%  100%  
+	    Novo Ficheiro  		    1279	simple.ascx  0%  100%  
+	    Novo Ficheiro  		    1696	xslt.ascx  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Dashboard\
+	    Novo Ficheiro  		     178	FeedProxy.aspx  0%  100%  
+	    Novo Ficheiro  		    1761	UserControlProxy.aspx  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\Macros\
+	    Novo Ficheiro  		    1674	assemblyBrowser.aspx  0%  100%  
+	    Novo Ficheiro  		   11871	editMacro.aspx  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\Packages\
+	    Novo Ficheiro  		    1171	directoryBrowser.aspx  0%  100%  
+	    Novo Ficheiro  		   12722	editPackage.aspx  0%  100%  
+	    Novo Ficheiro  		   18426	installer.aspx  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\RelationTypes\
+	    Novo Ficheiro  		    6536	EditRelationType.aspx  0%  100%  
+	    Novo Ficheiro  		    3013	NewRelationType.aspx  0%  100%  
+	    Novo Ficheiro  		     162	RelationTypesWebService.asmx  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\RelationTypes\Images\
+	    Novo Ficheiro  		     421	Bidirectional.png  0%  100%  
+	    Novo Ficheiro  		     434	ParentToChild.png  0%  100%  
+	    Novo Ficheiro  		    1053	Refresh.gif  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\RelationTypes\TreeMenu\
+	    Novo Ficheiro  		     731	ActionDeleteRelationType.js  0%  100%  
+	    Novo Ficheiro  		     172	ActionNewRelationType.js  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Developer\Xslt\
+	    Novo Ficheiro  		    3251	editXslt.aspx  0%  100%  
+	    Novo Ficheiro  		     108	getXsltStatus.asmx  0%  100%  
+	    Novo Ficheiro  		    2160	xsltChooseExtension.aspx  0%  100%  
+	    Novo Ficheiro  		    2588	xsltInsertValueOf.aspx  0%  100%  
+	    Novo Ficheiro  		    2895	xsltVisualize.aspx  0%  100%  
+	  New Dir         20	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Dialogs\
+	    Novo Ficheiro  		    4277	AssignDomain2.aspx  0%  100%  
+	    Novo Ficheiro  		    6285	ChangeDocType.aspx  0%  100%  
+	    Novo Ficheiro  		    3217	create.aspx  0%  100%  
+	    Novo Ficheiro  		    3654	EditMacro.aspx  0%  100%  
+	    Novo Ficheiro  		     262	empty.htm  0%  100%  
+	    Novo Ficheiro  		     150	exportDocumenttype.aspx  0%  100%  
+	    Novo Ficheiro  		    2031	importDocumenttype.aspx  0%  100%  
+	    Novo Ficheiro  		     815	notifications.aspx  0%  100%  
+	    Novo Ficheiro  		     748	Preview.aspx  0%  100%  
+	    Novo Ficheiro  		   10333	protectPage.aspx  0%  100%  
+	    Novo Ficheiro  		    4211	publish.aspx  0%  100%  
+	    Novo Ficheiro  		    1779	republish.aspx  0%  100%  
+	    Novo Ficheiro  		    4204	rollBack.aspx  0%  100%  
+	    Novo Ficheiro  		    1856	search.aspx  0%  100%  
+	    Novo Ficheiro  		     735	SendPublish.aspx  0%  100%  
+	    Novo Ficheiro  		    1638	sendToTranslation.aspx  0%  100%  
+	    Novo Ficheiro  		    4124	sort.aspx  0%  100%  
+	    Novo Ficheiro  		    1076	treePicker.aspx  0%  100%  
+	    Novo Ficheiro  		    6939	umbracoField.aspx  0%  100%  
+	    Novo Ficheiro  		    3076	viewAuditTrail.aspx  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Install\
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Install\Views\
+	    Novo Ficheiro  		    2992	Index.cshtml  0%  100%  
+	    Novo Ficheiro  		    2870	Web.config  0%  100%  
+	  New Dir         26	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Js\
+	    Novo Ficheiro  		     370	app.dev.js  0%  100%  
+	    Novo Ficheiro  		    2494	app.js  0%  100%  
+	    Novo Ficheiro  		     647	canvasdesigner.loader.js  0%  100%  
+	    Novo Ficheiro  		    1249	dualSelectBox.js  0%  100%  
+	    Novo Ficheiro  		    2929	guiFunctions.js  0%  100%  
+	    Novo Ficheiro  		    4907	init.js  0%  100%  
+	    Novo Ficheiro  		     597	install.loader.js  0%  100%  
+	    Novo Ficheiro  		     150	installer.app.js  0%  100%  
+	    Novo Ficheiro  		    1385	loader.dev.js  0%  100%  
+	    Novo Ficheiro  		    9724	routes.js  0%  100%  
+	    Novo Ficheiro  		  132723	umbraco.canvasdesigner.js  0%   98%  100%  
+	    Novo Ficheiro  		  848148	umbraco.controllers.js  0%   30%   61%   92%  100%  
+	    Novo Ficheiro  		  494487	umbraco.directives.js  0%   26%   53%   79%  100%  
+	    Novo Ficheiro  		    4299	umbraco.filters.js  0%  100%  
+	    Novo Ficheiro  		   19110	umbraco.installer.js  0%  100%  
+	    Novo Ficheiro  		  185576	umbraco.resources.js  0%   70%  100%  
+	    Novo Ficheiro  		   11266	umbraco.security.js  0%  100%  
+	    Novo Ficheiro  		  457455	umbraco.services.js  0%   28%   57%   85%  100%  
+	    Novo Ficheiro  		    2926	umbracoCheckKeys.js  0%  100%  
+	    Novo Ficheiro  		    3833	UmbracoSpeechBubble.js  0%  100%  
+	    Novo Ficheiro  		    2738	UmbracoSpeechBubbleBackEnd.js  0%  100%  
+	    Novo Ficheiro  		     201	UmbracoSpeechBubbleInit.js  0%  100%  
+	    Novo Ficheiro  		     586	umbracoUpgradeChecker.js  0%  100%  
+	    Novo Ficheiro  		     257	web.config  0%  100%  
+	    Novo Ficheiro  		    4102	xmlextras.js  0%  100%  
+	    Novo Ficheiro  		    1951	xmlRequest.js  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\ace-builds\
+	  New Dir          8	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\ace-builds\src-min-noconflict\
+	    Novo Ficheiro  		  362292	ace.js  0%   36%   72%  100%  
+	    Novo Ficheiro  		   34629	ext-language_tools.js  0%  100%  
+	    Novo Ficheiro  		   11711	ext-searchbox.js  0%  100%  
+	    Novo Ficheiro  		   12359	ext-settings_menu.js  0%  100%  
+	    Novo Ficheiro  		   18191	mode-javascript.js  0%  100%  
+	    Novo Ficheiro  		   67147	mode-razor.js  0%  100%  
+	    Novo Ficheiro  		    2712	theme-chrome.js  0%  100%  
+	    Novo Ficheiro  		  164518	worker-javascript.js  0%   79%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\ace-builds\src-min-noconflict\snippets\
+	    Novo Ficheiro  		    3840	javascript.js  0%  100%  
+	    Novo Ficheiro  		     131	text.js  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\ace-razor-mode\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\ace-razor-mode\theme\
+	    Novo Ficheiro  		    3037	razor_chrome.css  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\angular\
+	    Novo Ficheiro  		   12518	angular-ui-sortable.js  0%  100%  
+	  New Dir         14	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\angular\1.1.5\
+	    Novo Ficheiro  		  590854	angular.js  0%   44%   88%  100%  
+	    Novo Ficheiro  		   89030	angular.min.js  0%  100%  
+	    Novo Ficheiro  		    5399	angular-cookies.js  0%  100%  
+	    Novo Ficheiro  		     806	angular-cookies.min.js  0%  100%  
+	    Novo Ficheiro  		   10645	angular-loader.js  0%  100%  
+	    Novo Ficheiro  		     933	angular-loader.min.js  0%  100%  
+	    Novo Ficheiro  		   17504	angular-mobile.js  0%  100%  
+	    Novo Ficheiro  		    2875	angular-mobile.min.js  0%  100%  
+	    Novo Ficheiro  		   61335	angular-mocks.js  0%  100%  
+	    Novo Ficheiro  		   22149	angular-resource.js  0%  100%  
+	    Novo Ficheiro  		    2787	angular-resource.min.js  0%  100%  
+	    Novo Ficheiro  		   18873	angular-sanitize.js  0%  100%  
+	    Novo Ficheiro  		    3942	angular-sanitize.min.js  0%  100%  
+	    Novo Ficheiro  		  934395	angular-scenario.js  0%   28%   56%   84%  100%  
+	  New Dir        287	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\angular\1.1.5\i18n\
+	    Novo Ficheiro  		    2223	angular-locale_af.js  0%  100%  
+	    Novo Ficheiro  		    2218	angular-locale_af-na.js  0%  100%  
+	    Novo Ficheiro  		    2226	angular-locale_af-za.js  0%  100%  
+	    Novo Ficheiro  		    2833	angular-locale_am.js  0%  100%  
+	    Novo Ficheiro  		    2836	angular-locale_am-et.js  0%  100%  
+	    Novo Ficheiro  		    3702	angular-locale_ar.js  0%  100%  
+	    Novo Ficheiro  		    3706	angular-locale_ar-001.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-ae.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-bh.js  0%  100%  
+	    Novo Ficheiro  		    3657	angular-locale_ar-dz.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-eg.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-iq.js  0%  100%  
+	    Novo Ficheiro  		    3869	angular-locale_ar-jo.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-kw.js  0%  100%  
+	    Novo Ficheiro  		    3869	angular-locale_ar-lb.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-ly.js  0%  100%  
+	    Novo Ficheiro  		    3657	angular-locale_ar-ma.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-om.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-qa.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-sa.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-sd.js  0%  100%  
+	    Novo Ficheiro  		    3869	angular-locale_ar-sy.js  0%  100%  
+	    Novo Ficheiro  		    3657	angular-locale_ar-tn.js  0%  100%  
+	    Novo Ficheiro  		    3705	angular-locale_ar-ye.js  0%  100%  
+	    Novo Ficheiro  		    3134	angular-locale_bg.js  0%  100%  
+	    Novo Ficheiro  		    3137	angular-locale_bg-bg.js  0%  100%  
+	    Novo Ficheiro  		    3455	angular-locale_bn.js  0%  100%  
+	    Novo Ficheiro  		    3458	angular-locale_bn-bd.js  0%  100%  
+	    Novo Ficheiro  		    3458	angular-locale_bn-in.js  0%  100%  
+	    Novo Ficheiro  		    2342	angular-locale_ca.js  0%  100%  
+	    Novo Ficheiro  		    2345	angular-locale_ca-ad.js  0%  100%  
+	    Novo Ficheiro  		    2345	angular-locale_ca-es.js  0%  100%  
+	    Novo Ficheiro  		    1144	angular-locale_chr.js  0%  100%  
+	    Novo Ficheiro  		    2442	angular-locale_cs.js  0%  100%  
+	    Novo Ficheiro  		    2445	angular-locale_cs-cz.js  0%  100%  
+	    Novo Ficheiro  		     938	angular-locale_cy.js  0%  100%  
+	    Novo Ficheiro  		    2256	angular-locale_da.js  0%  100%  
+	    Novo Ficheiro  		    2259	angular-locale_da-dk.js  0%  100%  
+	    Novo Ficheiro  		    2246	angular-locale_de.js  0%  100%  
+	    Novo Ficheiro  		    2261	angular-locale_de-at.js  0%  100%  
+	    Novo Ficheiro  		    2249	angular-locale_de-be.js  0%  100%  
+	    Novo Ficheiro  		    2240	angular-locale_de-ch.js  0%  100%  
+	    Novo Ficheiro  		    2249	angular-locale_de-de.js  0%  100%  
+	    Novo Ficheiro  		    2249	angular-locale_de-li.js  0%  100%  
+	    Novo Ficheiro  		    2249	angular-locale_de-lu.js  0%  100%  
+	    Novo Ficheiro  		    3324	angular-locale_el.js  0%  100%  
+	    Novo Ficheiro  		    3327	angular-locale_el-cy.js  0%  100%  
+	    Novo Ficheiro  		    3327	angular-locale_el-gr.js  0%  100%  
+	    Novo Ficheiro  		    1495	angular-locale_el-polyton.js  0%  100%  
+	    Novo Ficheiro  		    2209	angular-locale_en.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-as.js  0%  100%  
+	    Novo Ficheiro  		    2216	angular-locale_en-au.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-bb.js  0%  100%  
+	    Novo Ficheiro  		    2208	angular-locale_en-be.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-bm.js  0%  100%  
+	    Novo Ficheiro  		    2215	angular-locale_en-bw.js  0%  100%  
+	    Novo Ficheiro  		    2206	angular-locale_en-bz.js  0%  100%  
+	    Novo Ficheiro  		    2220	angular-locale_en-ca.js  0%  100%  
+	    Novo Ficheiro  		    4057	angular-locale_en-dsrt.js  0%  100%  
+	    Novo Ficheiro  		    4060	angular-locale_en-dsrt-us.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-fm.js  0%  100%  
+	    Novo Ficheiro  		    2216	angular-locale_en-gb.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-gu.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-gy.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-hk.js  0%  100%  
+	    Novo Ficheiro  		    2224	angular-locale_en-ie.js  0%  100%  
+	    Novo Ficheiro  		    2229	angular-locale_en-in.js  0%  100%  
+	    Novo Ficheiro  		    2214	angular-locale_en-iso.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-jm.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-mh.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-mp.js  0%  100%  
+	    Novo Ficheiro  		    2219	angular-locale_en-mt.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-mu.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-na.js  0%  100%  
+	    Novo Ficheiro  		    2214	angular-locale_en-nz.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-ph.js  0%  100%  
+	    Novo Ficheiro  		    2213	angular-locale_en-pk.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-pr.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-pw.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-sg.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-tc.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-tt.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-um.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-us.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-vg.js  0%  100%  
+	    Novo Ficheiro  		    2212	angular-locale_en-vi.js  0%  100%  
+	    Novo Ficheiro  		    2224	angular-locale_en-za.js  0%  100%  
+	    Novo Ficheiro  		    2215	angular-locale_en-zw.js  0%  100%  
+	    Novo Ficheiro  		    1242	angular-locale_en-zz.js  0%  100%  
+	    Novo Ficheiro  		    2270	angular-locale_es.js  0%  100%  
+	    Novo Ficheiro  		    2257	angular-locale_es-419.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-ar.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-bo.js  0%  100%  
+	    Novo Ficheiro  		    2269	angular-locale_es-cl.js  0%  100%  
+	    Novo Ficheiro  		    2265	angular-locale_es-co.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-cr.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-do.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-ea.js  0%  100%  
+	    Novo Ficheiro  		    2269	angular-locale_es-ec.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-es.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-gq.js  0%  100%  
+	    Novo Ficheiro  		    2269	angular-locale_es-gt.js  0%  100%  
+	    Novo Ficheiro  		    2274	angular-locale_es-hn.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-ic.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-mx.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-ni.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-pa.js  0%  100%  
+	    Novo Ficheiro  		    2271	angular-locale_es-pe.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-pr.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-py.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-sv.js  0%  100%  
+	    Novo Ficheiro  		    2269	angular-locale_es-us.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-uy.js  0%  100%  
+	    Novo Ficheiro  		    2273	angular-locale_es-ve.js  0%  100%  
+	    Novo Ficheiro  		    2313	angular-locale_et.js  0%  100%  
+	    Novo Ficheiro  		    2316	angular-locale_et-ee.js  0%  100%  
+	    Novo Ficheiro  		    2264	angular-locale_eu.js  0%  100%  
+	    Novo Ficheiro  		    2267	angular-locale_eu-es.js  0%  100%  
+	    Novo Ficheiro  		    3342	angular-locale_fa.js  0%  100%  
+	    Novo Ficheiro  		    3249	angular-locale_fa-af.js  0%  100%  
+	    Novo Ficheiro  		    3345	angular-locale_fa-ir.js  0%  100%  
+	    Novo Ficheiro  		    2389	angular-locale_fi.js  0%  100%  
+	    Novo Ficheiro  		    2392	angular-locale_fi-fi.js  0%  100%  
+	    Novo Ficheiro  		    2221	angular-locale_fil.js  0%  100%  
+	    Novo Ficheiro  		    2224	angular-locale_fil-ph.js  0%  100%  
+	    Novo Ficheiro  		    2292	angular-locale_fr.js  0%  100%  
+	    Novo Ficheiro  		    2293	angular-locale_fr-be.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-bf.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-bi.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-bj.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-bl.js  0%  100%  
+	    Novo Ficheiro  		    2296	angular-locale_fr-ca.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-cd.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-cf.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-cg.js  0%  100%  
+	    Novo Ficheiro  		    2296	angular-locale_fr-ch.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-ci.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-cm.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-dj.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-fr.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-ga.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-gf.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-gn.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-gp.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-gq.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-km.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-lu.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-mc.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-mf.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-mg.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-ml.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-mq.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-ne.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-re.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-rw.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-sn.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-td.js  0%  100%  
+	    Novo Ficheiro  		    2256	angular-locale_fr-tg.js  0%  100%  
+	    Novo Ficheiro  		    2295	angular-locale_fr-yt.js  0%  100%  
+	    Novo Ficheiro  		    2240	angular-locale_gl.js  0%  100%  
+	    Novo Ficheiro  		    2243	angular-locale_gl-es.js  0%  100%  
+	    Novo Ficheiro  		    2283	angular-locale_gsw.js  0%  100%  
+	    Novo Ficheiro  		    2286	angular-locale_gsw-ch.js  0%  100%  
+	    Novo Ficheiro  		    3245	angular-locale_gu.js  0%  100%  
+	    Novo Ficheiro  		    3248	angular-locale_gu-in.js  0%  100%  
+	    Novo Ficheiro  		     926	angular-locale_haw.js  0%  100%  
+	    Novo Ficheiro  		    3225	angular-locale_he.js  0%  100%  
+	    Novo Ficheiro  		    3228	angular-locale_he-il.js  0%  100%  
+	    Novo Ficheiro  		    3263	angular-locale_hi.js  0%  100%  
+	    Novo Ficheiro  		    3266	angular-locale_hi-in.js  0%  100%  
+	    Novo Ficheiro  		    2553	angular-locale_hr.js  0%  100%  
+	    Novo Ficheiro  		    2556	angular-locale_hr-hr.js  0%  100%  
+	    Novo Ficheiro  		    2304	angular-locale_hu.js  0%  100%  
+	    Novo Ficheiro  		    2307	angular-locale_hu-hu.js  0%  100%  
+	    Novo Ficheiro  		    2157	angular-locale_id.js  0%  100%  
+	    Novo Ficheiro  		    2160	angular-locale_id-id.js  0%  100%  
+	    Novo Ficheiro  		    2157	angular-locale_in.js  0%  100%  
+	    Novo Ficheiro  		    2369	angular-locale_is.js  0%  100%  
+	    Novo Ficheiro  		    2372	angular-locale_is-is.js  0%  100%  
+	    Novo Ficheiro  		    2256	angular-locale_it.js  0%  100%  
+	    Novo Ficheiro  		    2226	angular-locale_it-ch.js  0%  100%  
+	    Novo Ficheiro  		    2259	angular-locale_it-it.js  0%  100%  
+	    Novo Ficheiro  		    2259	angular-locale_it-sm.js  0%  100%  
+	    Novo Ficheiro  		    3177	angular-locale_iw.js  0%  100%  
+	    Novo Ficheiro  		    2372	angular-locale_ja.js  0%  100%  
+	    Novo Ficheiro  		    2375	angular-locale_ja-jp.js  0%  100%  
+	    Novo Ficheiro  		    3239	angular-locale_kn.js  0%  100%  
+	    Novo Ficheiro  		    3242	angular-locale_kn-in.js  0%  100%  
+	    Novo Ficheiro  		    2386	angular-locale_ko.js  0%  100%  
+	    Novo Ficheiro  		    2389	angular-locale_ko-kr.js  0%  100%  
+	    Novo Ficheiro  		    2743	angular-locale_ln.js  0%  100%  
+	    Novo Ficheiro  		    2746	angular-locale_ln-cd.js  0%  100%  
+	    Novo Ficheiro  		    2462	angular-locale_ln-cg.js  0%  100%  
+	    Novo Ficheiro  		    2519	angular-locale_lt.js  0%  100%  
+	    Novo Ficheiro  		    2522	angular-locale_lt-lt.js  0%  100%  
+	    Novo Ficheiro  		    2444	angular-locale_lv.js  0%  100%  
+	    Novo Ficheiro  		    2447	angular-locale_lv-lv.js  0%  100%  
+	    Novo Ficheiro  		    3512	angular-locale_ml.js  0%  100%  
+	    Novo Ficheiro  		    3515	angular-locale_ml-in.js  0%  100%  
+	    Novo Ficheiro  		    1387	angular-locale_mo.js  0%  100%  
+	    Novo Ficheiro  		    3240	angular-locale_mr.js  0%  100%  
+	    Novo Ficheiro  		    3243	angular-locale_mr-in.js  0%  100%  
+	    Novo Ficheiro  		    2150	angular-locale_ms.js  0%  100%  
+	    Novo Ficheiro  		    2148	angular-locale_ms-bn.js  0%  100%  
+	    Novo Ficheiro  		    2153	angular-locale_ms-my.js  0%  100%  
+	    Novo Ficheiro  		    2489	angular-locale_mt.js  0%  100%  
+	    Novo Ficheiro  		    2492	angular-locale_mt-mt.js  0%  100%  
+	    Novo Ficheiro  		    2228	angular-locale_nl.js  0%  100%  
+	    Novo Ficheiro  		    2220	angular-locale_nl-aw.js  0%  100%  
+	    Novo Ficheiro  		    2218	angular-locale_nl-be.js  0%  100%  
+	    Novo Ficheiro  		    2231	angular-locale_nl-cw.js  0%  100%  
+	    Novo Ficheiro  		    2231	angular-locale_nl-nl.js  0%  100%  
+	    Novo Ficheiro  		    2231	angular-locale_nl-sx.js  0%  100%  
+	    Novo Ficheiro  		    2254	angular-locale_no.js  0%  100%  
+	    Novo Ficheiro  		    3402	angular-locale_or.js  0%  100%  
+	    Novo Ficheiro  		    3405	angular-locale_or-in.js  0%  100%  
+	    Novo Ficheiro  		    2583	angular-locale_pl.js  0%  100%  
+	    Novo Ficheiro  		    2586	angular-locale_pl-pl.js  0%  100%  
+	    Novo Ficheiro  		    2277	angular-locale_pt.js  0%  100%  
+	    Novo Ficheiro  		    2264	angular-locale_pt-ao.js  0%  100%  
+	    Novo Ficheiro  		    2280	angular-locale_pt-br.js  0%  100%  
+	    Novo Ficheiro  		    2264	angular-locale_pt-gw.js  0%  100%  
+	    Novo Ficheiro  		    2264	angular-locale_pt-mz.js  0%  100%  
+	    Novo Ficheiro  		    2304	angular-locale_pt-pt.js  0%  100%  
+	    Novo Ficheiro  		    2264	angular-locale_pt-st.js  0%  100%  
+	    Novo Ficheiro  		    2373	angular-locale_ro.js  0%  100%  
+	    Novo Ficheiro  		    2344	angular-locale_ro-md.js  0%  100%  
+	    Novo Ficheiro  		    2376	angular-locale_ro-ro.js  0%  100%  
+	    Novo Ficheiro  		    3604	angular-locale_ru.js  0%  100%  
+	    Novo Ficheiro  		    2755	angular-locale_ru-md.js  0%  100%  
+	    Novo Ficheiro  		    3607	angular-locale_ru-ru.js  0%  100%  
+	    Novo Ficheiro  		    2746	angular-locale_ru-ua.js  0%  100%  
+	    Novo Ficheiro  		    2376	angular-locale_sk.js  0%  100%  
+	    Novo Ficheiro  		    2379	angular-locale_sk-sk.js  0%  100%  
+	    Novo Ficheiro  		    2381	angular-locale_sl.js  0%  100%  
+	    Novo Ficheiro  		    2384	angular-locale_sl-si.js  0%  100%  
+	    Novo Ficheiro  		    2266	angular-locale_sq.js  0%  100%  
+	    Novo Ficheiro  		    2269	angular-locale_sq-al.js  0%  100%  
+	    Novo Ficheiro  		    3446	angular-locale_sr.js  0%  100%  
+	    Novo Ficheiro  		    2699	angular-locale_sr-cyrl.js  0%  100%  
+	    Novo Ficheiro  		    2716	angular-locale_sr-cyrl-ba.js  0%  100%  
+	    Novo Ficheiro  		    2702	angular-locale_sr-cyrl-me.js  0%  100%  
+	    Novo Ficheiro  		    3454	angular-locale_sr-cyrl-rs.js  0%  100%  
+	    Novo Ficheiro  		    2517	angular-locale_sr-latn.js  0%  100%  
+	    Novo Ficheiro  		    2520	angular-locale_sr-latn-ba.js  0%  100%  
+	    Novo Ficheiro  		    2519	angular-locale_sr-latn-me.js  0%  100%  
+	    Novo Ficheiro  		    2536	angular-locale_sr-latn-rs.js  0%  100%  
+	    Novo Ficheiro  		    1764	angular-locale_sr-rs.js  0%  100%  
+	    Novo Ficheiro  		    2263	angular-locale_sv.js  0%  100%  
+	    Novo Ficheiro  		    2230	angular-locale_sv-fi.js  0%  100%  
+	    Novo Ficheiro  		    2266	angular-locale_sv-se.js  0%  100%  
+	    Novo Ficheiro  		    2220	angular-locale_sw.js  0%  100%  
+	    Novo Ficheiro  		    2223	angular-locale_sw-ke.js  0%  100%  
+	    Novo Ficheiro  		    2223	angular-locale_sw-tz.js  0%  100%  
+	    Novo Ficheiro  		    3049	angular-locale_ta.js  0%  100%  
+	    Novo Ficheiro  		    3052	angular-locale_ta-in.js  0%  100%  
+	    Novo Ficheiro  		    2543	angular-locale_ta-lk.js  0%  100%  
+	    Novo Ficheiro  		    3340	angular-locale_te.js  0%  100%  
+	    Novo Ficheiro  		    3343	angular-locale_te-in.js  0%  100%  
+	    Novo Ficheiro  		    3241	angular-locale_th.js  0%  100%  
+	    Novo Ficheiro  		    3244	angular-locale_th-th.js  0%  100%  
+	    Novo Ficheiro  		    2220	angular-locale_tl.js  0%  100%  
+	    Novo Ficheiro  		    1251	angular-locale_tl-ph.js  0%  100%  
+	    Novo Ficheiro  		    2224	angular-locale_tr.js  0%  100%  
+	    Novo Ficheiro  		    2227	angular-locale_tr-tr.js  0%  100%  
+	    Novo Ficheiro  		    3473	angular-locale_uk.js  0%  100%  
+	    Novo Ficheiro  		    3476	angular-locale_uk-ua.js  0%  100%  
+	    Novo Ficheiro  		    3075	angular-locale_ur.js  0%  100%  
+	    Novo Ficheiro  		    2374	angular-locale_ur-in.js  0%  100%  
+	    Novo Ficheiro  		    3078	angular-locale_ur-pk.js  0%  100%  
+	    Novo Ficheiro  		    2505	angular-locale_vi.js  0%  100%  
+	    Novo Ficheiro  		    2508	angular-locale_vi-vn.js  0%  100%  
+	    Novo Ficheiro  		    2407	angular-locale_zh.js  0%  100%  
+	    Novo Ficheiro  		    2410	angular-locale_zh-cn.js  0%  100%  
+	    Novo Ficheiro  		    2201	angular-locale_zh-hans.js  0%  100%  
+	    Novo Ficheiro  		    2415	angular-locale_zh-hans-cn.js  0%  100%  
+	    Novo Ficheiro  		    2239	angular-locale_zh-hans-hk.js  0%  100%  
+	    Novo Ficheiro  		    2239	angular-locale_zh-hans-mo.js  0%  100%  
+	    Novo Ficheiro  		    2245	angular-locale_zh-hans-sg.js  0%  100%  
+	    Novo Ficheiro  		    2199	angular-locale_zh-hant.js  0%  100%  
+	    Novo Ficheiro  		    2228	angular-locale_zh-hant-hk.js  0%  100%  
+	    Novo Ficheiro  		    2232	angular-locale_zh-hant-mo.js  0%  100%  
+	    Novo Ficheiro  		    2202	angular-locale_zh-hant-tw.js  0%  100%  
+	    Novo Ficheiro  		    2465	angular-locale_zh-hk.js  0%  100%  
+	    Novo Ficheiro  		    2404	angular-locale_zh-tw.js  0%  100%  
+	    Novo Ficheiro  		    2228	angular-locale_zu.js  0%  100%  
+	    Novo Ficheiro  		    2231	angular-locale_zu-za.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\angular-bootstrap\
+	    Novo Ficheiro  		   53012	ui-bootstrap-tpls-0.10.0.min.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\angular-dynamic-locale\
+	    Novo Ficheiro  		    2976	tmhDynamicLocale.min.js  0%  100%  
+	    Novo Ficheiro  		    4024	tmhDynamicLocale.min.js.map  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\angular-local-storage\
+	    Novo Ficheiro  		    5315	angular-local-storage.min.js  0%  100%  
+	    Novo Ficheiro  		    6885	angular-local-storage.min.js.map  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap\
+	  New Dir          7	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap\css\
+	    Novo Ficheiro  		  114355	bootstrap.cosmo.min.css  0%  100%  
+	    Novo Ficheiro  		  105909	bootstrap.css  0%  100%  
+	    Novo Ficheiro  		  102601	bootstrap.min.3.0.1.css  0%  100%  
+	    Novo Ficheiro  		  105948	bootstrap.min.css  0%  100%  
+	    Novo Ficheiro  		   22057	bootstrap-responsive.css  0%  100%  
+	    Novo Ficheiro  		   16858	bootstrap-responsive.min.css  0%  100%  
+	    Novo Ficheiro  		   16850	responsive.css  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap\img\
+	    Novo Ficheiro  		   12799	glyphicons-halflings.png  0%  100%  
+	    Novo Ficheiro  		    8777	glyphicons-halflings-white.png  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap\js\
+	    Novo Ficheiro  		   64245	bootstrap.2.3.2.js  0%  100%  
+	    Novo Ficheiro  		   28636	bootstrap.2.3.2.min.js  0%  100%  
+	  New Dir         41	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap\less\
+	    Novo Ficheiro  		     670	accordion.less  0%  100%  
+	    Novo Ficheiro  		    1448	alerts.less  0%  100%  
+	    Novo Ficheiro  		    1552	bootstrap.less  0%  100%  
+	    Novo Ficheiro  		     455	breadcrumbs.less  0%  100%  
+	    Novo Ficheiro  		    5938	button-groups.less  0%  100%  
+	    Novo Ficheiro  		    4994	buttons.less  0%  100%  
+	    Novo Ficheiro  		    2640	carousel.less  0%  100%  
+	    Novo Ficheiro  		     675	close.less  0%  100%  
+	    Novo Ficheiro  		    1352	code.less  0%  100%  
+	    Novo Ficheiro  		     328	component-animations.less  0%  100%  
+	    Novo Ficheiro  		    5730	dropdowns.less  0%  100%  
+	    Novo Ficheiro  		   16554	forms.less  0%  100%  
+	    Novo Ficheiro  		     450	grid.less  0%  100%  
+	    Novo Ficheiro  		     546	hero-unit.less  0%  100%  
+	    Novo Ficheiro  		    1968	labels-badges.less  0%  100%  
+	    Novo Ficheiro  		     344	layouts.less  0%  100%  
+	    Novo Ficheiro  		     915	media.less  0%  100%  
+	    Novo Ficheiro  		   23744	mixins.less  0%  100%  
+	    Novo Ficheiro  		    2073	modals.less  0%  100%  
+	    Novo Ficheiro  		   12547	navbar.less  0%  100%  
+	    Novo Ficheiro  		    8572	navs.less  0%  100%  
+	    Novo Ficheiro  		     802	pager.less  0%  100%  
+	    Novo Ficheiro  		    2801	pagination.less  0%  100%  
+	    Novo Ficheiro  		    3210	popovers.less  0%  100%  
+	    Novo Ficheiro  		    2980	progress-bars.less  0%  100%  
+	    Novo Ficheiro  		    4417	reset.less  0%  100%  
+	    Novo Ficheiro  		    1117	responsive.less  0%  100%  
+	    Novo Ficheiro  		     593	responsive-1200px-min.less  0%  100%  
+	    Novo Ficheiro  		    4113	responsive-767px-max.less  0%  100%  
+	    Novo Ficheiro  		     482	responsive-768px-979px.less  0%  100%  
+	    Novo Ficheiro  		    4517	responsive-navbar.less  0%  100%  
+	    Novo Ficheiro  		    1661	responsive-utilities.less  0%  100%  
+	    Novo Ficheiro  		     938	scaffolding.less  0%  100%  
+	    Novo Ficheiro  		   11038	sprites.less  0%  100%  
+	    Novo Ficheiro  		    6499	tables.less  0%  100%  
+	    Novo Ficheiro  		    1289	thumbnails.less  0%  100%  
+	    Novo Ficheiro  		    1754	tooltip.less  0%  100%  
+	    Novo Ficheiro  		    5104	type.less  0%  100%  
+	    Novo Ficheiro  		     365	utilities.less  0%  100%  
+	    Novo Ficheiro  		    9443	variables.less  0%  100%  
+	    Novo Ficheiro  		     581	wells.less  0%  100%  
+	  New Dir          8	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap\less\tests\
+	    Novo Ficheiro  		    6550	buttons.html  0%  100%  
+	    Novo Ficheiro  		    5625	css-tests.css  0%  100%  
+	    Novo Ficheiro  		   41537	css-tests.html  0%  100%  
+	    Novo Ficheiro  		    4258	forms.html  0%  100%  
+	    Novo Ficheiro  		    2433	forms-responsive.html  0%  100%  
+	    Novo Ficheiro  		    4904	navbar.html  0%  100%  
+	    Novo Ficheiro  		    4796	navbar-fixed-top.html  0%  100%  
+	    Novo Ficheiro  		    4818	navbar-static-top.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap-social\
+	    Novo Ficheiro  		   20453	bootstrap-social.css  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\bootstrap-tabdrop\
+	    Novo Ficheiro  		    3811	bootstrap-tabdrop.js  0%  100%  
+	    Novo Ficheiro  		    1552	README.md  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\clipboard\
+	    Novo Ficheiro  		   10917	clipboard.min.js  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\addon\
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\addon\dialog\
+	    Novo Ficheiro  		     507	dialog.css  0%  100%  
+	    Novo Ficheiro  		    4938	dialog.js  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\addon\edit\
+	    Novo Ficheiro  		    6498	closebrackets.js  0%  100%  
+	    Novo Ficheiro  		    7590	closetag.js  0%  100%  
+	    Novo Ficheiro  		    1750	continuelist.js  0%  100%  
+	    Novo Ficheiro  		    5254	matchbrackets.js  0%  100%  
+	    Novo Ficheiro  		    2355	matchtags.js  0%  100%  
+	    Novo Ficheiro  		    1003	trailingspace.js  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\addon\search\
+	    Novo Ficheiro  		     188	matchesonscrollbar.css  0%  100%  
+	    Novo Ficheiro  		    3808	matchesonscrollbar.js  0%  100%  
+	    Novo Ficheiro  		    4943	match-highlighter.js  0%  100%  
+	    Novo Ficheiro  		    7294	search.js  0%  100%  
+	    Novo Ficheiro  		    7723	searchcursor.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\addon\selection\
+	    Novo Ficheiro  		    2442	active-line.js  0%  100%  
+	    Novo Ficheiro  		    3781	mark-selection.js  0%  100%  
+	    Novo Ficheiro  		    3292	selection-pointer.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\lib\
+	    Novo Ficheiro  		    7771	codemirror.css  0%  100%  
+	    Novo Ficheiro  		  347063	codemirror.js  0%   37%   75%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\mode\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\mode\css\
+	    Novo Ficheiro  		   34123	css.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\mode\htmlmixed\
+	    Novo Ficheiro  		    5001	htmlmixed.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\mode\javascript\
+	    Novo Ficheiro  		   26636	javascript.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\mode\razor\
+	    Novo Ficheiro  		   22778	index.html  0%  100%  
+	    Novo Ficheiro  		    1172	LICENSE  0%  100%  
+	    Novo Ficheiro  		    9631	razor.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\codemirror\mode\xml\
+	    Novo Ficheiro  		   12375	xml.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\cssparser\
+	    Novo Ficheiro  		  181181	cssparser.js  0%   72%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\datetimepicker\
+	    Novo Ficheiro  		   60823	bootstrap-datetimepicker.js  0%  100%  
+	    Novo Ficheiro  		    5062	bootstrap-datetimepicker.min.css  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\font-awesome\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\font-awesome\css\
+	    Novo Ficheiro  		   21984	font-awesome.min.css  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\font-awesome\fonts\
+	    Novo Ficheiro  		   85908	FontAwesome.otf  0%  100%  
+	    Novo Ficheiro  		   56006	fontawesome-webfont.eot  0%  100%  
+	    Novo Ficheiro  		  287007	fontawesome-webfont.svg  0%   45%   91%  100%  
+	    Novo Ficheiro  		  112160	fontawesome-webfont.ttf  0%  100%  
+	    Novo Ficheiro  		   65452	fontawesome-webfont.woff  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\jquery\
+	    Novo Ficheiro  		   85578	jquery.min.js  0%  100%  
+	    Novo Ficheiro  		  129572	jquery.min.map  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\jquery-migrate\
+	    Novo Ficheiro  		    9632	jquery-migrate.min.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\jquery-ui\
+	    Novo Ficheiro  		  240427	jquery-ui.min.js  0%   54%  100%  
+	    Novo Ficheiro  		   27250	jquery-ui-1.10.4.custom.min.css  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\jquery-ui-touch-punch\
+	    Novo Ficheiro  		    4967	jquery.ui.touch-punch.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\less\
+	    Novo Ficheiro  		  101869	less-1.7.0.min.js  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\markdown\
+	    Novo Ficheiro  		   46407	markdown.converter.js  0%  100%  
+	    Novo Ficheiro  		    1655	markdown.css  0%  100%  
+	    Novo Ficheiro  		   78543	markdown.editor.js  0%  100%  
+	    Novo Ficheiro  		    4185	markdown.sanitizer.js  0%  100%  
+	    Novo Ficheiro  		      95	red.css  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\moment\
+	    Novo Ficheiro  		  370101	moment-with-locales.js  0%   35%   70%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\ng-file-upload\
+	    Novo Ficheiro  		   23766	ng-file-upload.min.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\rgrove-lazyload\
+	    Novo Ficheiro  		   13187	lazyload.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\slider\
+	    Novo Ficheiro  		    8493	bootstrap-slider.css  0%  100%  
+	    Novo Ficheiro  		    2285	bootstrap-slider-custom.css  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\slider\js\
+	    Novo Ficheiro  		   51451	bootstrap-slider.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\spectrum\
+	    Novo Ficheiro  		   15122	spectrum.css  0%  100%  
+	    Novo Ficheiro  		   40684	spectrum.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\
+	    Novo Ficheiro  		  405216	tinymce.min.js  0%   32%   64%   97%  100%  
+	  New Dir         16	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\langs\
+	    Novo Ficheiro  		    7730	da.js  0%  100%  
+	    Novo Ficheiro  		    8497	de.js  0%  100%  
+	    Novo Ficheiro  		    6515	en.js  0%  100%  
+	    Novo Ficheiro  		    6518	en_us.js  0%  100%  
+	    Novo Ficheiro  		    8360	fi.js  0%  100%  
+	    Novo Ficheiro  		    7765	fr.js  0%  100%  
+	    Novo Ficheiro  		   15279	he.js  0%  100%  
+	    Novo Ficheiro  		    7815	it.js  0%  100%  
+	    Novo Ficheiro  		   12507	ja.js  0%  100%  
+	    Novo Ficheiro  		    7452	nl.js  0%  100%  
+	    Novo Ficheiro  		    6958	no.js  0%  100%  
+	    Novo Ficheiro  		    8362	pl.js  0%  100%  
+	    Novo Ficheiro  		    7053	pt.js  0%  100%  
+	    Novo Ficheiro  		   22507	ru.js  0%  100%  
+	    Novo Ficheiro  		    6966	sv.js  0%  100%  
+	    Novo Ficheiro  		    8432	zh.js  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\advlist\
+	    Novo Ficheiro  		     205	index.js  0%  100%  
+	    Novo Ficheiro  		    3888	plugin.js  0%  100%  
+	    Novo Ficheiro  		    2091	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\anchor\
+	    Novo Ficheiro  		     202	index.js  0%  100%  
+	    Novo Ficheiro  		    2259	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1188	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\autolink\
+	    Novo Ficheiro  		     208	index.js  0%  100%  
+	    Novo Ficheiro  		    5137	plugin.js  0%  100%  
+	    Novo Ficheiro  		    2060	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\autoresize\
+	    Novo Ficheiro  		     214	index.js  0%  100%  
+	    Novo Ficheiro  		    4990	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1903	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\autosave\
+	    Novo Ficheiro  		     208	index.js  0%  100%  
+	    Novo Ficheiro  		    4159	plugin.js  0%  100%  
+	    Novo Ficheiro  		    2187	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\bbcode\
+	    Novo Ficheiro  		     202	index.js  0%  100%  
+	    Novo Ficheiro  		    4223	plugin.js  0%  100%  
+	    Novo Ficheiro  		    3136	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\charmap\
+	    Novo Ficheiro  		     205	index.js  0%  100%  
+	    Novo Ficheiro  		   11537	plugin.js  0%  100%  
+	    Novo Ficheiro  		    8199	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\code\
+	    Novo Ficheiro  		     196	index.js  0%  100%  
+	    Novo Ficheiro  		    1569	plugin.js  0%  100%  
+	    Novo Ficheiro  		     721	plugin.min.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\codemirror\
+	    Novo Ficheiro  		    1141	plugin.min.js  0%  100%  
+	    Novo Ficheiro  		    7671	source.html  0%  100%  
+	  New Dir         16	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\codemirror\langs\
+	    Novo Ficheiro  		     224	da.js  0%  100%  
+	    Novo Ficheiro  		     224	de.js  0%  100%  
+	    Novo Ficheiro  		     224	en.js  0%  100%  
+	    Novo Ficheiro  		     224	en_us.js  0%  100%  
+	    Novo Ficheiro  		     224	fi.js  0%  100%  
+	    Novo Ficheiro  		     224	fr.js  0%  100%  
+	    Novo Ficheiro  		     224	he.js  0%  100%  
+	    Novo Ficheiro  		     224	it.js  0%  100%  
+	    Novo Ficheiro  		     224	ja.js  0%  100%  
+	    Novo Ficheiro  		     224	nl.js  0%  100%  
+	    Novo Ficheiro  		     224	no.js  0%  100%  
+	    Novo Ficheiro  		     224	pl.js  0%  100%  
+	    Novo Ficheiro  		     224	pt.js  0%  100%  
+	    Novo Ficheiro  		     224	ru.js  0%  100%  
+	    Novo Ficheiro  		     224	sv.js  0%  100%  
+	    Novo Ficheiro  		     224	zh.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\codesample\
+	    Novo Ficheiro  		     214	index.js  0%  100%  
+	    Novo Ficheiro  		   34938	plugin.js  0%  100%  
+	    Novo Ficheiro  		   20332	plugin.min.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\codesample\css\
+	    Novo Ficheiro  		    2289	prism.css  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\colorpicker\
+	    Novo Ficheiro  		     217	index.js  0%  100%  
+	    Novo Ficheiro  		    2450	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1222	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\contextmenu\
+	    Novo Ficheiro  		     217	index.js  0%  100%  
+	    Novo Ficheiro  		    2659	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1131	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\directionality\
+	    Novo Ficheiro  		     226	index.js  0%  100%  
+	    Novo Ficheiro  		    1465	plugin.js  0%  100%  
+	    Novo Ficheiro  		     726	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\emoticons\
+	    Novo Ficheiro  		     211	index.js  0%  100%  
+	    Novo Ficheiro  		    1615	plugin.js  0%  100%  
+	    Novo Ficheiro  		     911	plugin.min.js  0%  100%  
+	  New Dir         16	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\emoticons\img\
+	    Novo Ficheiro  		     354	smiley-cool.gif  0%  100%  
+	    Novo Ficheiro  		     329	smiley-cry.gif  0%  100%  
+	    Novo Ficheiro  		     331	smiley-embarassed.gif  0%  100%  
+	    Novo Ficheiro  		     342	smiley-foot-in-mouth.gif  0%  100%  
+	    Novo Ficheiro  		     340	smiley-frown.gif  0%  100%  
+	    Novo Ficheiro  		     336	smiley-innocent.gif  0%  100%  
+	    Novo Ficheiro  		     338	smiley-kiss.gif  0%  100%  
+	    Novo Ficheiro  		     343	smiley-laughing.gif  0%  100%  
+	    Novo Ficheiro  		     321	smiley-money-mouth.gif  0%  100%  
+	    Novo Ficheiro  		     323	smiley-sealed.gif  0%  100%  
+	    Novo Ficheiro  		     344	smiley-smile.gif  0%  100%  
+	    Novo Ficheiro  		     338	smiley-surprised.gif  0%  100%  
+	    Novo Ficheiro  		     328	smiley-tongue-out.gif  0%  100%  
+	    Novo Ficheiro  		     337	smiley-undecided.gif  0%  100%  
+	    Novo Ficheiro  		     350	smiley-wink.gif  0%  100%  
+	    Novo Ficheiro  		     336	smiley-yell.gif  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\fullpage\
+	    Novo Ficheiro  		     208	index.js  0%  100%  
+	    Novo Ficheiro  		   12277	plugin.js  0%  100%  
+	    Novo Ficheiro  		    6308	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\fullscreen\
+	    Novo Ficheiro  		     214	index.js  0%  100%  
+	    Novo Ficheiro  		    3587	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1675	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\hr\
+	    Novo Ficheiro  		     190	index.js  0%  100%  
+	    Novo Ficheiro  		     648	plugin.js  0%  100%  
+	    Novo Ficheiro  		     322	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\image\
+	    Novo Ficheiro  		     199	index.js  0%  100%  
+	    Novo Ficheiro  		   16015	plugin.js  0%  100%  
+	    Novo Ficheiro  		    8204	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\imagetools\
+	    Novo Ficheiro  		     214	index.js  0%  100%  
+	    Novo Ficheiro  		   75753	plugin.js  0%  100%  
+	    Novo Ficheiro  		   30906	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\importcss\
+	    Novo Ficheiro  		     211	index.js  0%  100%  
+	    Novo Ficheiro  		    7241	plugin.js  0%  100%  
+	    Novo Ficheiro  		    2747	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\insertdatetime\
+	    Novo Ficheiro  		     226	index.js  0%  100%  
+	    Novo Ficheiro  		    3484	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1971	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\legacyoutput\
+	    Novo Ficheiro  		     220	index.js  0%  100%  
+	    Novo Ficheiro  		    6332	plugin.js  0%  100%  
+	    Novo Ficheiro  		    3263	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\link\
+	    Novo Ficheiro  		     196	index.js  0%  100%  
+	    Novo Ficheiro  		   14355	plugin.js  0%  100%  
+	    Novo Ficheiro  		    6994	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\lists\
+	    Novo Ficheiro  		     199	index.js  0%  100%  
+	    Novo Ficheiro  		   37046	plugin.js  0%  100%  
+	    Novo Ficheiro  		   14635	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\media\
+	    Novo Ficheiro  		     199	index.js  0%  100%  
+	    Novo Ficheiro  		   35729	plugin.js  0%  100%  
+	    Novo Ficheiro  		   16452	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\nonbreaking\
+	    Novo Ficheiro  		     217	index.js  0%  100%  
+	    Novo Ficheiro  		    1210	plugin.js  0%  100%  
+	    Novo Ficheiro  		     655	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\noneditable\
+	    Novo Ficheiro  		     217	index.js  0%  100%  
+	    Novo Ficheiro  		    3137	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1270	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\pagebreak\
+	    Novo Ficheiro  		     211	index.js  0%  100%  
+	    Novo Ficheiro  		    2400	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1230	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\paste\
+	    Novo Ficheiro  		     199	index.js  0%  100%  
+	    Novo Ficheiro  		   53343	plugin.js  0%  100%  
+	    Novo Ficheiro  		   18068	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\preview\
+	    Novo Ficheiro  		     205	index.js  0%  100%  
+	    Novo Ficheiro  		    2999	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1602	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\print\
+	    Novo Ficheiro  		     199	index.js  0%  100%  
+	    Novo Ficheiro  		     624	plugin.js  0%  100%  
+	    Novo Ficheiro  		     293	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\save\
+	    Novo Ficheiro  		     196	index.js  0%  100%  
+	    Novo Ficheiro  		    2065	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1150	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\searchreplace\
+	    Novo Ficheiro  		     223	index.js  0%  100%  
+	    Novo Ficheiro  		   15562	plugin.js  0%  100%  
+	    Novo Ficheiro  		    6493	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\spellchecker\
+	    Novo Ficheiro  		     220	index.js  0%  100%  
+	    Novo Ficheiro  		   26505	plugin.js  0%  100%  
+	    Novo Ficheiro  		   10048	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\tabfocus\
+	    Novo Ficheiro  		     208	index.js  0%  100%  
+	    Novo Ficheiro  		    2505	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1264	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\table\
+	    Novo Ficheiro  		     199	index.js  0%  100%  
+	    Novo Ficheiro  		  114941	plugin.js  0%  100%  
+	    Novo Ficheiro  		   47126	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\template\
+	    Novo Ficheiro  		     208	index.js  0%  100%  
+	    Novo Ficheiro  		    7692	plugin.js  0%  100%  
+	    Novo Ficheiro  		    4520	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\textcolor\
+	    Novo Ficheiro  		     211	index.js  0%  100%  
+	    Novo Ficheiro  		    7189	plugin.js  0%  100%  
+	    Novo Ficheiro  		    4145	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\textpattern\
+	    Novo Ficheiro  		     217	index.js  0%  100%  
+	    Novo Ficheiro  		    6783	plugin.js  0%  100%  
+	    Novo Ficheiro  		    2745	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\toc\
+	    Novo Ficheiro  		     193	index.js  0%  100%  
+	    Novo Ficheiro  		    6359	plugin.js  0%  100%  
+	    Novo Ficheiro  		    2771	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\visualblocks\
+	    Novo Ficheiro  		     220	index.js  0%  100%  
+	    Novo Ficheiro  		    2139	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1153	plugin.min.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\visualblocks\css\
+	    Novo Ficheiro  		    5092	visualblocks.css  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\visualchars\
+	    Novo Ficheiro  		     217	index.js  0%  100%  
+	    Novo Ficheiro  		    2589	plugin.js  0%  100%  
+	    Novo Ficheiro  		    1178	plugin.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\plugins\wordcount\
+	    Novo Ficheiro  		     211	index.js  0%  100%  
+	    Novo Ficheiro  		   21184	plugin.js  0%  100%  
+	    Novo Ficheiro  		   12030	plugin.min.js  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\skins\
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\skins\umbraco\
+	    Novo Ficheiro  		    2389	content.min.css  0%  100%  
+	    Novo Ficheiro  		   30624	skin.classic.min.css  0%  100%  
+	    Novo Ficheiro  		   30481	skin.ie7.min.css  0%  100%  
+	    Novo Ficheiro  		   31598	skin.min.css  0%  100%  
+	  New Dir          9	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\skins\umbraco\fonts\
+	    Novo Ficheiro  		      68	readme.md  0%  100%  
+	    Novo Ficheiro  		   17572	tinymce.eot  0%  100%  
+	    Novo Ficheiro  		   46121	tinymce.svg  0%  100%  
+	    Novo Ficheiro  		   17408	tinymce.ttf  0%  100%  
+	    Novo Ficheiro  		   17484	tinymce.woff  0%  100%  
+	    Novo Ficheiro  		    9492	tinymce-small.eot  0%  100%  
+	    Novo Ficheiro  		   24789	tinymce-small.svg  0%  100%  
+	    Novo Ficheiro  		    9304	tinymce-small.ttf  0%  100%  
+	    Novo Ficheiro  		    9380	tinymce-small.woff  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\skins\umbraco\img\
+	    Novo Ficheiro  		      53	anchor.gif  0%  100%  
+	    Novo Ficheiro  		    2608	loader.gif  0%  100%  
+	    Novo Ficheiro  		     152	object.gif  0%  100%  
+	    Novo Ficheiro  		      43	trans.gif  0%  100%  
+	    Novo Ficheiro  		      46	wline.gif  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\themes\
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\themes\inlite\
+	    Novo Ficheiro  		     198	index.js  0%  100%  
+	    Novo Ficheiro  		   45788	theme.js  0%  100%  
+	    Novo Ficheiro  		   16578	theme.min.js  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\themes\modern\
+	    Novo Ficheiro  		     198	index.js  0%  100%  
+	    Novo Ficheiro  		   33903	theme.js  0%  100%  
+	    Novo Ficheiro  		   13154	theme.min.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\tinymce\themes\umbraco\
+	    Novo Ficheiro  		    4762	theme.min.js  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\typeahead.js\
+	    Novo Ficheiro  		   29675	typeahead.bundle.min.js  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\umbraco\
+	    Novo Ficheiro  		    1223	compat.js  0%  100%  
+	    Novo Ficheiro  		   11361	Extensions.js  0%  100%  
+	    Novo Ficheiro  		    2435	LegacySpeechBubble.js  0%  100%  
+	    Novo Ficheiro  		   19720	LegacyUmbClientMgr.js  0%  100%  
+	    Novo Ficheiro  		     836	NamespaceManager.js  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\lib\underscore\
+	    Novo Ficheiro  		   15626	underscore-min.js  0%  100%  
+	    Novo Ficheiro  		   25382	underscore-min.map  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Masterpages\
+	    Novo Ficheiro  		     234	default.Master  0%  100%  
+	    Novo Ficheiro  		    1767	umbracoDialog.Master  0%  100%  
+	    Novo Ficheiro  		    2281	umbracoPage.Master  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Members\
+	    Novo Ficheiro  		    1010	EditMemberGroup.aspx  0%  100%  
+	    Novo Ficheiro  		    1838	MemberSearch.ascx  0%  100%  
+	    Novo Ficheiro  		     798	search.aspx  0%  100%  
+	    Novo Ficheiro  		    1913	ViewMembers.aspx  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\PartialViewMacros\
+	  New Dir         20	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\PartialViewMacros\Templates\
+	    Novo Ficheiro  		     931	Breadcrumb.cshtml  0%  100%  
+	    Novo Ficheiro  		    2658	EditProfile.cshtml  0%  100%  
+	    Novo Ficheiro  		      53	Empty (ForUseWithCustomViews).cshtml  0%  100%  
+	    Novo Ficheiro  		      49	Empty.cshtml  0%  100%  
+	    Novo Ficheiro  		    1617	Gallery.cshtml  0%  100%  
+	    Novo Ficheiro  		     903	ListAncestorsFromCurrentPage.cshtml  0%  100%  
+	    Novo Ficheiro  		    1005	ListChildPagesFromChangeableSource.cshtml  0%  100%  
+	    Novo Ficheiro  		     629	ListChildPagesFromCurrentPage.cshtml  0%  100%  
+	    Novo Ficheiro  		     759	ListChildPagesOrderedByDate.cshtml  0%  100%  
+	    Novo Ficheiro  		     719	ListChildPagesOrderedByName.cshtml  0%  100%  
+	    Novo Ficheiro  		    1025	ListChildPagesOrderedByProperty.cshtml  0%  100%  
+	    Novo Ficheiro  		     687	ListChildPagesWithDoctype.cshtml  0%  100%  
+	    Novo Ficheiro  		    2337	ListDescendantsFromCurrentPage.cshtml  0%  100%  
+	    Novo Ficheiro  		    1032	ListImagesFromMediaFolder.cshtml  0%  100%  
+	    Novo Ficheiro  		    1310	Login.cshtml  0%  100%  
+	    Novo Ficheiro  		    1402	LoginStatus.cshtml  0%  100%  
+	    Novo Ficheiro  		     779	MultinodeTree-picker.cshtml  0%  100%  
+	    Novo Ficheiro  		     717	Navigation.cshtml  0%  100%  
+	    Novo Ficheiro  		    4538	RegisterMember.cshtml  0%  100%  
+	    Novo Ficheiro  		    1335	SiteMap.cshtml  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Plugins\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Plugins\Tinymce3\
+	    Novo Ficheiro  		     171	tinymce3tinymceCompress.aspx  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\preview\
+	    Novo Ficheiro  		    8443	index.html  0%  100%  
+	  New Dir         11	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\preview\editors\
+	    Novo Ficheiro  		    2504	background.html  0%  100%  
+	    Novo Ficheiro  		     980	border.html  0%  100%  
+	    Novo Ficheiro  		      90	color.html  0%  100%  
+	    Novo Ficheiro  		    1518	googlefontpicker.html  0%  100%  
+	    Novo Ficheiro  		     199	gridRow.html  0%  100%  
+	    Novo Ficheiro  		     339	layout.html  0%  100%  
+	    Novo Ficheiro  		     463	margin.html  0%  100%  
+	    Novo Ficheiro  		     471	padding.html  0%  100%  
+	    Novo Ficheiro  		     897	radius.html  0%  100%  
+	    Novo Ficheiro  		     195	shadow.html  0%  100%  
+	    Novo Ficheiro  		     215	slider.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Search\
+	    Novo Ficheiro  		    1100	QuickSearch.ascx  0%  100%  
+	    Novo Ficheiro  		    3887	quickSearch.js  0%  100%  
+	    Novo Ficheiro  		     139	QuickSearchHandler.ashx  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Settings\
+	    Novo Ficheiro  		     688	DictionaryItemList.aspx  0%  100%  
+	    Novo Ficheiro  		     726	EditDictionaryItem.aspx  0%  100%  
+	    Novo Ficheiro  		     899	editLanguage.aspx  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Settings\Modals\
+	    Novo Ficheiro  		    3355	ShowUmbracoTags.aspx  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Settings\Stylesheet\
+	    Novo Ficheiro  		    2484	editstylesheet.aspx  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Settings\Stylesheet\Property\
+	    Novo Ficheiro  		    2723	EditStyleSheetProperty.aspx  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Translation\
+	    Novo Ficheiro  		    2597	default.aspx  0%  100%  
+	    Novo Ficheiro  		    1856	details.aspx  0%  100%  
+	    Novo Ficheiro  		    1325	preview.aspx  0%  100%  
+	    Novo Ficheiro  		    1007	translationTasks.dtd  0%  100%  
+	    Novo Ficheiro  		     220	xml.aspx  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\
+	    Novo Ficheiro  		    2710	AuthorizeUpgrade.cshtml  0%  100%  
+	    Novo Ficheiro  		    3268	Default.cshtml  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\
+	    Novo Ficheiro  		    1588	dashboard.html  0%  100%  
+	    Novo Ficheiro  		     198	legacy.html  0%  100%  
+	    Novo Ficheiro  		      59	login.html  0%  100%  
+	  New Dir         15	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\dialogs\
+	    Novo Ficheiro  		     352	approvedcolorpicker.html  0%  100%  
+	    Novo Ficheiro  		    2481	help.html  0%  100%  
+	    Novo Ficheiro  		    2387	iconpicker.html  0%  100%  
+	    Novo Ficheiro  		    2109	insertmacro.html  0%  100%  
+	    Novo Ficheiro  		     461	legacydelete.html  0%  100%  
+	    Novo Ficheiro  		    2787	linkpicker.html  0%  100%  
+	    Novo Ficheiro  		   12586	login.html  0%  100%  
+	    Novo Ficheiro  		    1324	macropicker.html  0%  100%  
+	    Novo Ficheiro  		    6277	mediapicker.html  0%  100%  
+	    Novo Ficheiro  		    1172	membergrouppicker.html  0%  100%  
+	    Novo Ficheiro  		      24	property.html  0%  100%  
+	    Novo Ficheiro  		    1912	rteembed.html  0%  100%  
+	    Novo Ficheiro  		    2450	treepicker.html  0%  100%  
+	    Novo Ficheiro  		    4788	user.html  0%  100%  
+	    Novo Ficheiro  		     978	ysod.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\dialogs\content\
+	    Novo Ficheiro  		    2803	edit.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\dialogs\template\
+	    Novo Ficheiro  		    5005	querybuilder.html  0%  100%  
+	    Novo Ficheiro  		    1556	snippet.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\notifications\
+	    Novo Ficheiro  		     577	confirmroutechange.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\contentpicker\
+	    Novo Ficheiro  		    1670	contentpicker.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\compositions\
+	    Novo Ficheiro  		    2729	compositions.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\editorpicker\
+	    Novo Ficheiro  		    4040	editorpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\editorsettings\
+	    Novo Ficheiro  		     892	editorsettings.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\propertysettings\
+	    Novo Ficheiro  		    4705	propertysettings.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\copy\
+	    Novo Ficheiro  		    1975	copy.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\embed\
+	    Novo Ficheiro  		    1202	embed.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\help\
+	    Novo Ficheiro  		    2432	help.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\iconpicker\
+	    Novo Ficheiro  		    2213	iconpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\insert\
+	    Novo Ficheiro  		    2426	insert.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\insertfield\
+	    Novo Ficheiro  		    9842	insertfield.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\itempicker\
+	    Novo Ficheiro  		     927	itempicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\linkpicker\
+	    Novo Ficheiro  		    3159	linkpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\macropicker\
+	    Novo Ficheiro  		    2214	macropicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\mediaPicker\
+	    Novo Ficheiro  		    5344	mediapicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\mediatypepicker\
+	    Novo Ficheiro  		     459	mediatypepicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\membergrouppicker\
+	    Novo Ficheiro  		     317	membergrouppicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\memberpicker\
+	    Novo Ficheiro  		    1669	memberpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\move\
+	    Novo Ficheiro  		    1443	move.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\nodepermissions\
+	    Novo Ficheiro  		     484	nodepermissions.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\querybuilder\
+	    Novo Ficheiro  		    4367	querybuilder.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\sectionpicker\
+	    Novo Ficheiro  		     802	sectionpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\templatesections\
+	    Novo Ficheiro  		    3030	templatesections.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\treepicker\
+	    Novo Ficheiro  		    1914	treepicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\user\
+	    Novo Ficheiro  		    4299	user.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\usergrouppicker\
+	    Novo Ficheiro  		    3086	usergrouppicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\userpicker\
+	    Novo Ficheiro  		    2317	userpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\common\overlays\ysod\
+	    Novo Ficheiro  		    1081	ysod.html  0%  100%  
+	  New Dir         29	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\
+	    Novo Ficheiro  		     330	umb-avatar.html  0%  100%  
+	    Novo Ficheiro  		      86	umb-badge.html  0%  100%  
+	    Novo Ficheiro  		     111	umb-checkmark.html  0%  100%  
+	    Novo Ficheiro  		    1623	umb-child-selector.html  0%  100%  
+	    Novo Ficheiro  		     433	umb-confirm.html  0%  100%  
+	    Novo Ficheiro  		     570	umb-confirm-action.html  0%  100%  
+	    Novo Ficheiro  		    1409	umb-content-grid.html  0%  100%  
+	    Novo Ficheiro  		     243	umb-date-time-picker.html  0%  100%  
+	    Novo Ficheiro  		      75	umb-dropdown.html  0%  100%  
+	    Novo Ficheiro  		      23	umb-dropdown-item.html  0%  100%  
+	    Novo Ficheiro  		     204	umb-empty-state.html  0%  100%  
+	    Novo Ficheiro  		     620	umb-folder-grid.html  0%  100%  
+	    Novo Ficheiro  		     309	umb-generate-alias.html  0%  100%  
+	    Novo Ficheiro  		    2501	umb-grid-selector.html  0%  100%  
+	    Novo Ficheiro  		   17400	umb-groups-builder.html  0%  100%  
+	    Novo Ficheiro  		    2298	umb-keyboard-shortcuts-overview.html  0%  100%  
+	    Novo Ficheiro  		     712	umb-layout-selector.html  0%  100%  
+	    Novo Ficheiro  		     918	umb-lightbox.html  0%  100%  
+	    Novo Ficheiro  		      77	umb-list-view-layout.html  0%  100%  
+	    Novo Ficheiro  		    2227	umb-list-view-settings.html  0%  100%  
+	    Novo Ficheiro  		     206	umb-load-indicator.html  0%  100%  
+	    Novo Ficheiro  		    1570	umb-locked-field.html  0%  100%  
+	    Novo Ficheiro  		    1958	umb-media-grid.html  0%  100%  
+	    Novo Ficheiro  		    5012	umb-mini-list-view.html  0%  100%  
+	    Novo Ficheiro  		    1359	umb-node-preview.html  0%  100%  
+	    Novo Ficheiro  		     863	umb-pagination.html  0%  100%  
+	    Novo Ficheiro  		     152	umb-progress-bar.html  0%  100%  
+	    Novo Ficheiro  		    3292	umb-table.html  0%  100%  
+	    Novo Ficheiro  		      87	umb-tooltip.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\application\
+	    Novo Ficheiro  		     579	umb-contextmenu.html  0%  100%  
+	    Novo Ficheiro  		    4328	umb-navigation.html  0%  100%  
+	    Novo Ficheiro  		    2704	umb-sections.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\buttons\
+	    Novo Ficheiro  		    2042	umb-button.html  0%  100%  
+	    Novo Ficheiro  		    1122	umb-button-group.html  0%  100%  
+	    Novo Ficheiro  		    1091	umb-toggle.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\content\
+	    Novo Ficheiro  		    2449	edit.html  0%  100%  
+	  New Dir         10	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\editor\
+	    Novo Ficheiro  		     794	umb-breadcrumbs.html  0%  100%  
+	    Novo Ficheiro  		     268	umb-editor-container.html  0%  100%  
+	    Novo Ficheiro  		     134	umb-editor-footer.html  0%  100%  
+	    Novo Ficheiro  		      72	umb-editor-footer-content-left.html  0%  100%  
+	    Novo Ficheiro  		      73	umb-editor-footer-content-right.html  0%  100%  
+	    Novo Ficheiro  		    3591	umb-editor-header.html  0%  100%  
+	    Novo Ficheiro  		     870	umb-editor-menu.html  0%  100%  
+	    Novo Ficheiro  		     523	umb-editor-navigation.html  0%  100%  
+	    Novo Ficheiro  		     291	umb-editor-sub-views.html  0%  100%  
+	    Novo Ficheiro  		     140	umb-editor-view.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\editor\subheader\
+	    Novo Ficheiro  		     135	umb-editor-sub-header.html  0%  100%  
+	    Novo Ficheiro  		      71	umb-editor-sub-header-content-left.html  0%  100%  
+	    Novo Ficheiro  		      72	umb-editor-sub-header-content-right.html  0%  100%  
+	    Novo Ficheiro  		      66	umb-editor-sub-header-section.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\html\
+	    Novo Ficheiro  		     660	umb-control-group.html  0%  100%  
+	    Novo Ficheiro  		      47	umb-pane.html  0%  100%  
+	    Novo Ficheiro  		      58	umb-panel.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\html\umb-box\
+	    Novo Ficheiro  		      41	umb-box.html  0%  100%  
+	    Novo Ficheiro  		      49	umb-box-content.html  0%  100%  
+	    Novo Ficheiro  		     474	umb-box-header.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\imaging\
+	    Novo Ficheiro  		     571	umb-image-crop.html  0%  100%  
+	    Novo Ficheiro  		     323	umb-image-gravity.html  0%  100%  
+	    Novo Ficheiro  		     230	umb-image-thumbnail.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\notifications\
+	    Novo Ficheiro  		     965	umb-notifications.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\overlays\
+	    Novo Ficheiro  		    3368	umb-overlay.html  0%  100%  
+	    Novo Ficheiro  		      95	umb-overlay-backdrop.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\property\
+	    Novo Ficheiro  		     880	umb-property.html  0%  100%  
+	    Novo Ficheiro  		     131	umb-property-editor.html  0%  100%  
+	    Novo Ficheiro  		       0	umb-property-group.html100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\tabs\
+	    Novo Ficheiro  		     130	umb-tab.html  0%  100%  
+	    Novo Ficheiro  		      85	umb-tabs-content.html  0%  100%  
+	    Novo Ficheiro  		     215	umb-tabs-nav.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\tree\
+	    Novo Ficheiro  		     599	umb-tree-search-box.html  0%  100%  
+	    Novo Ficheiro  		     892	umb-tree-search-results.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\upload\
+	    Novo Ficheiro  		    3715	umb-file-dropzone.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\components\users\
+	    Novo Ficheiro  		    4183	change-password.html  0%  100%  
+	    Novo Ficheiro  		     365	umb-permission.html  0%  100%  
+	    Novo Ficheiro  		    2380	umb-user-group-preview.html  0%  100%  
+	    Novo Ficheiro  		     700	umb-user-preview.html  0%  100%  
+	  New Dir         11	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\content\
+	    Novo Ficheiro  		    3852	copy.html  0%  100%  
+	    Novo Ficheiro  		    2209	create.html  0%  100%  
+	    Novo Ficheiro  		    1761	createblueprint.html  0%  100%  
+	    Novo Ficheiro  		     463	delete.html  0%  100%  
+	    Novo Ficheiro  		     438	edit.html  0%  100%  
+	    Novo Ficheiro  		     704	emptyrecyclebin.html  0%  100%  
+	    Novo Ficheiro  		    3403	move.html  0%  100%  
+	    Novo Ficheiro  		     522	recyclebin.html  0%  100%  
+	    Novo Ficheiro  		     977	restore.html  0%  100%  
+	    Novo Ficheiro  		    6356	rights.html  0%  100%  
+	    Novo Ficheiro  		     206	umbpreview.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\contentblueprints\
+	    Novo Ficheiro  		    1551	create.html  0%  100%  
+	    Novo Ficheiro  		     441	delete.html  0%  100%  
+	    Novo Ficheiro  		     372	edit.html  0%  100%  
+	    Novo Ficheiro  		    1857	intro.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\
+	    Novo Ficheiro  		     587	ChangePassword.html  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\default\
+	    Novo Ficheiro  		   25651	ourumbraco.jpg  0%  100%  
+	    Novo Ficheiro  		    3498	StartupDashboardIntro.html  0%  100%  
+	    Novo Ficheiro  		    1365	StartupDashboardKits.html  0%  100%  
+	    Novo Ficheiro  		       0	StartupDashboardLastEdits.html100%  
+	    Novo Ficheiro  		     828	StartupDashboardVideos.html  0%  100%  
+	    Novo Ficheiro  		   49817	umbracotv.jpg  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\developer\
+	    Novo Ficheiro  		    1251	developerdashboardintro.html  0%  100%  
+	    Novo Ficheiro  		    1059	developerdashboardvideos.html  0%  100%  
+	    Novo Ficheiro  		   17956	examinemanagement.html  0%  100%  
+	    Novo Ficheiro  		    7081	healthcheck.html  0%  100%  
+	    Novo Ficheiro  		    5251	redirecturls.html  0%  100%  
+	    Novo Ficheiro  		    1309	xmldataintegrityreport.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\forms\
+	    Novo Ficheiro  		    1643	formsdashboardintro.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\media\
+	    Novo Ficheiro  		    1838	desktopmediauploader.html  0%  100%  
+	    Novo Ficheiro  		     917	mediadashboardintro.html  0%  100%  
+	    Novo Ficheiro  		     829	mediadashboardvideos.html  0%  100%  
+	    Novo Ficheiro  		     157	mediafolderbrowser.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\members\
+	    Novo Ficheiro  		     394	membersdashboardintro.html  0%  100%  
+	    Novo Ficheiro  		     813	membersdashboardvideos.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\dashboard\settings\
+	    Novo Ficheiro  		    1321	settingsdashboardintro.html  0%  100%  
+	    Novo Ficheiro  		     829	settingsdashboardvideos.html  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\datatypes\
+	    Novo Ficheiro  		    1926	create.html  0%  100%  
+	    Novo Ficheiro  		    1612	delete.html  0%  100%  
+	    Novo Ficheiro  		    2104	edit.html  0%  100%  
+	    Novo Ficheiro  		    2135	move.html  0%  100%  
+	    Novo Ficheiro  		     966	rename.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\directives\
+	  New Dir          8	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\directives\_obsolete\
+	    Novo Ficheiro  		     738	umb-content-name.html  0%  100%  
+	    Novo Ficheiro  		     406	umb-header.html  0%  100%  
+	    Novo Ficheiro  		    1472	umb-item-sorter.html  0%  100%  
+	    Novo Ficheiro  		     572	umb-login.html  0%  100%  
+	    Novo Ficheiro  		     832	umb-optionsmenu.html  0%  100%  
+	    Novo Ficheiro  		    1080	umb-photo-folder.html  0%  100%  
+	    Novo Ficheiro  		     147	umb-tab-view.html  0%  100%  
+	    Novo Ficheiro  		     239	umb-upload-dropzone.html  0%  100%  
+	  New Dir          8	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\documenttypes\
+	    Novo Ficheiro  		    2194	copy.html  0%  100%  
+	    Novo Ficheiro  		    2405	create.html  0%  100%  
+	    Novo Ficheiro  		    1710	delete.html  0%  100%  
+	    Novo Ficheiro  		    2425	edit.html  0%  100%  
+	    Novo Ficheiro  		    2192	move.html  0%  100%  
+	    Novo Ficheiro  		     148	property.html  0%  100%  
+	    Novo Ficheiro  		       0	propertygroup.html100%  
+	    Novo Ficheiro  		     973	rename.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\documenttypes\views\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\documenttypes\views\design\
+	    Novo Ficheiro  		      95	design.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\documenttypes\views\listview\
+	    Novo Ficheiro  		     553	listview.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\documenttypes\views\permissions\
+	    Novo Ficheiro  		    1680	permissions.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\documenttypes\views\templates\
+	    Novo Ficheiro  		     845	templates.html  0%  100%  
+	  New Dir          9	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\install\
+	    Novo Ficheiro  		     401	continueinstall.html  0%  100%  
+	    Novo Ficheiro  		    4724	database.html  0%  100%  
+	    Novo Ficheiro  		     329	error.html  0%  100%  
+	    Novo Ficheiro  		    1104	machinekey.html  0%  100%  
+	    Novo Ficheiro  		    1006	permissionsreport.html  0%  100%  
+	    Novo Ficheiro  		     914	starterkit.html  0%  100%  
+	    Novo Ficheiro  		     885	upgrade.html  0%  100%  
+	    Novo Ficheiro  		    2921	user.html  0%  100%  
+	    Novo Ficheiro  		    1015	version7upgradereport.html  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\media\
+	    Novo Ficheiro  		    1638	create.html  0%  100%  
+	    Novo Ficheiro  		     445	delete.html  0%  100%  
+	    Novo Ficheiro  		    2134	edit.html  0%  100%  
+	    Novo Ficheiro  		     714	emptyrecyclebin.html  0%  100%  
+	    Novo Ficheiro  		    1769	move.html  0%  100%  
+	    Novo Ficheiro  		     522	recyclebin.html  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\mediatypes\
+	    Novo Ficheiro  		    2188	copy.html  0%  100%  
+	    Novo Ficheiro  		    1947	create.html  0%  100%  
+	    Novo Ficheiro  		    1649	delete.html  0%  100%  
+	    Novo Ficheiro  		    2421	edit.html  0%  100%  
+	    Novo Ficheiro  		    2170	move.html  0%  100%  
+	    Novo Ficheiro  		     966	rename.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\mediatypes\views\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\mediatypes\views\design\
+	    Novo Ficheiro  		      92	design.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\mediatypes\views\listview\
+	    Novo Ficheiro  		     550	listview.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\mediatypes\views\permissions\
+	    Novo Ficheiro  		    1679	permissions.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\member\
+	    Novo Ficheiro  		    1009	create.html  0%  100%  
+	    Novo Ficheiro  		     459	delete.html  0%  100%  
+	    Novo Ficheiro  		    2040	edit.html  0%  100%  
+	    Novo Ficheiro  		    1094	list.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\membertypes\
+	    Novo Ficheiro  		    1918	create.html  0%  100%  
+	    Novo Ficheiro  		    1127	delete.html  0%  100%  
+	    Novo Ficheiro  		    2380	edit.html  0%  100%  
+	    Novo Ficheiro  		     362	move.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\membertypes\views\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\membertypes\views\design\
+	    Novo Ficheiro  		     121	design.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\packager\
+	    Novo Ficheiro  		     454	delete.html  0%  100%  
+	    Novo Ficheiro  		     783	overview.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\packager\views\
+	    Novo Ficheiro  		    6122	installed.html  0%  100%  
+	    Novo Ficheiro  		    9227	install-local.html  0%  100%  
+	    Novo Ficheiro  		   20878	repo.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\partialviewmacros\
+	    Novo Ficheiro  		    3986	create.html  0%  100%  
+	    Novo Ficheiro  		     442	delete.html  0%  100%  
+	    Novo Ficheiro  		    4413	edit.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\partialviews\
+	    Novo Ficheiro  		    3494	create.html  0%  100%  
+	    Novo Ficheiro  		     437	delete.html  0%  100%  
+	    Novo Ficheiro  		    4788	edit.html  0%  100%  
+	  New Dir         16	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\prevalueeditors\
+	    Novo Ficheiro  		     101	boolean.html  0%  100%  
+	    Novo Ficheiro  		     437	decimal.html  0%  100%  
+	    Novo Ficheiro  		      84	hidden.html  0%  100%  
+	    Novo Ficheiro  		     721	imagepicker.html  0%  100%  
+	    Novo Ficheiro  		     876	mediapicker.html  0%  100%  
+	    Novo Ficheiro  		     682	multivalues.html  0%  100%  
+	    Novo Ficheiro  		     166	nodetype.html  0%  100%  
+	    Novo Ficheiro  		     434	number.html  0%  100%  
+	    Novo Ficheiro  		     261	radiobuttonlist.html  0%  100%  
+	    Novo Ficheiro  		     222	readonlykeyvalues.html  0%  100%  
+	    Novo Ficheiro  		     411	requiredfield.html  0%  100%  
+	    Novo Ficheiro  		     101	textarea.html  0%  100%  
+	    Novo Ficheiro  		      94	textstring.html  0%  100%  
+	    Novo Ficheiro  		     866	treepicker.html  0%  100%  
+	    Novo Ficheiro  		    2942	treesource.html  0%  100%  
+	    Novo Ficheiro  		     270	valuetype.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\boolean\
+	    Novo Ficheiro  		     187	boolean.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\changepassword\
+	    Novo Ficheiro  		     230	changepassword.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\checkboxlist\
+	    Novo Ficheiro  		     465	checkboxlist.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\colorpicker\
+	    Novo Ficheiro  		     592	colorpicker.html  0%  100%  
+	    Novo Ficheiro  		     740	colorpicker.prevalues.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\contentpicker\
+	    Novo Ficheiro  		    2062	contentpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\datepicker\
+	    Novo Ficheiro  		    1866	datepicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\decimal\
+	    Novo Ficheiro  		     645	decimal.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\dropdown\
+	    Novo Ficheiro  		     782	dropdown.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\email\
+	    Novo Ficheiro  		     699	email.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\entitypicker\
+	    Novo Ficheiro  		     661	entitypicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\fileupload\
+	    Novo Ficheiro  		    1716	fileupload.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\folderbrowser\
+	    Novo Ficheiro  		     149	folderbrowser.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\googlemaps\
+	    Novo Ficheiro  		     182	googlemaps.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\grid\
+	    Novo Ficheiro  		   16398	grid.html  0%  100%  
+	    Novo Ficheiro  		    7114	grid.prevalues.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\grid\config\
+	    Novo Ficheiro  		    7328	grid.default.config.js  0%  100%  
+	    Novo Ficheiro  		     265	grid.default.rtestyles.css  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\grid\dialogs\
+	    Novo Ficheiro  		     485	config.html  0%  100%  
+	    Novo Ficheiro  		     472	editconfig.html  0%  100%  
+	    Novo Ficheiro  		    4915	layoutconfig.html  0%  100%  
+	    Novo Ficheiro  		    4144	rowconfig.html  0%  100%  
+	    Novo Ficheiro  		     432	rowdeleteconfirm.html  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\grid\editors\
+	    Novo Ficheiro  		     519	embed.html  0%  100%  
+	    Novo Ficheiro  		     114	error.html  0%  100%  
+	    Novo Ficheiro  		     603	macro.html  0%  100%  
+	    Novo Ficheiro  		     799	media.html  0%  100%  
+	    Novo Ficheiro  		    1042	rte.html  0%  100%  
+	    Novo Ficheiro  		     302	textstring.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\imagecropper\
+	    Novo Ficheiro  		    3113	imagecropper.html  0%  100%  
+	    Novo Ficheiro  		    2373	imagecropper.prevalues.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\integer\
+	    Novo Ficheiro  		     663	integer.html  0%  100%  
+	  New Dir          6	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\listview\
+	    Novo Ficheiro  		    1218	bulkActionPermissions.prevalues.html  0%  100%  
+	    Novo Ficheiro  		    2479	includeproperties.prevalues.html  0%  100%  
+	    Novo Ficheiro  		    2297	layouts.prevalues.html  0%  100%  
+	    Novo Ficheiro  		    8482	listview.html  0%  100%  
+	    Novo Ficheiro  		     459	orderDirection.prevalues.html  0%  100%  
+	    Novo Ficheiro  		     190	sortby.prevalues.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\listview\layouts\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\listview\layouts\grid\
+	    Novo Ficheiro  		    3329	grid.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\listview\layouts\list\
+	    Novo Ficheiro  		    2685	list.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\macrocontainer\
+	    Novo Ficheiro  		    1159	macrocontainer.html  0%  100%  
+	    Novo Ficheiro  		     217	macrolist.prevalues.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\markdowneditor\
+	    Novo Ficheiro  		     538	markdowneditor.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\mediapicker\
+	    Novo Ficheiro  		    1636	mediapicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\membergrouppicker\
+	    Novo Ficheiro  		     688	membergrouppicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\membergroups\
+	    Novo Ficheiro  		     688	membergroups.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\memberpicker\
+	    Novo Ficheiro  		     728	memberpicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\multipletextbox\
+	    Novo Ficheiro  		     960	multipletextbox.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\nestedcontent\
+	    Novo Ficheiro  		    2879	nestedcontent.doctypepicker.html  0%  100%  
+	    Novo Ficheiro  		     456	nestedcontent.editor.html  0%  100%  
+	    Novo Ficheiro  		    3595	nestedcontent.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\radiobuttons\
+	    Novo Ficheiro  		     474	radiobuttons.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\readonlyvalue\
+	    Novo Ficheiro  		     161	readonlyvalue.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\relatedlinks\
+	    Novo Ficheiro  		    5870	relatedlinks.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\rte\
+	    Novo Ficheiro  		    1050	rte.html  0%  100%  
+	    Novo Ficheiro  		    1825	rte.prevalues.html  0%  100%  
+	  New Dir          4	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\slider\
+	    Novo Ficheiro  		     381	handle.prevalues.html  0%  100%  
+	    Novo Ficheiro  		     362	orientation.prevalues.html  0%  100%  
+	    Novo Ficheiro  		     143	slider.html  0%  100%  
+	    Novo Ficheiro  		     382	tooltip.prevalues.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\tags\
+	    Novo Ficheiro  		     962	tags.html  0%  100%  
+	    Novo Ficheiro  		     209	tags.prevalues.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\templatepicker\
+	    Novo Ficheiro  		     113	templatepicker.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\test\
+	    Novo Ficheiro  		     476	test.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\textarea\
+	    Novo Ficheiro  		     656	textarea.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\textbox\
+	    Novo Ficheiro  		     746	textbox.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\ultrasimple\
+	    Novo Ficheiro  		     243	ultrasimple.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\urllist\
+	    Novo Ficheiro  		     509	urllist.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\propertyeditors\validationtest\
+	    Novo Ficheiro  		     558	validationtest.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\scripts\
+	    Novo Ficheiro  		    2089	create.html  0%  100%  
+	    Novo Ficheiro  		     432	delete.html  0%  100%  
+	    Novo Ficheiro  		    1789	edit.html  0%  100%  
+	  New Dir          2	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\templates\
+	    Novo Ficheiro  		     446	delete.html  0%  100%  
+	    Novo Ficheiro  		    7398	edit.html  0%  100%  
+	  New Dir          3	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\users\
+	    Novo Ficheiro  		   11715	group.html  0%  100%  
+	    Novo Ficheiro  		     646	overview.html  0%  100%  
+	    Novo Ficheiro  		   26866	user.html  0%  100%  
+	  New Dir          0	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\users\views\
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\users\views\groups\
+	    Novo Ficheiro  		    4961	groups.html  0%  100%  
+	  New Dir          1	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Views\users\views\users\
+	    Novo Ficheiro  		   27903	users.html  0%  100%  
+	  New Dir         15	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Webservices\
+	    Novo Ficheiro  		   26403	ajax.js  0%  100%  
+	    Novo Ficheiro  		     125	CacheRefresher.asmx  0%  100%  
+	    Novo Ficheiro  		     130	CheckForUpgrade.asmx  0%  100%  
+	    Novo Ficheiro  		     111	CMSNode.asmx  0%  100%  
+	    Novo Ficheiro  		     125	codeEditorSave.asmx  0%  100%  
+	    Novo Ficheiro  		     127	legacyAjaxCalls.asmx  0%  100%  
+	    Novo Ficheiro  		     142	MacroContainerService.asmx  0%  100%  
+	    Novo Ficheiro  		     134	MediaUploader.ashx  0%  100%  
+	    Novo Ficheiro  		     117	nodeSorter.asmx  0%  100%  
+	    Novo Ficheiro  		     125	progressStatus.asmx  0%  100%  
+	    Novo Ficheiro  		     106	publication.asmx  0%  100%  
+	    Novo Ficheiro  		     154	TagsAutoCompleteHandler.ashx  0%  100%  
+	    Novo Ficheiro  		     134	TreeClientService.asmx  0%  100%  
+	    Novo Ficheiro  		     130	TreeDataService.ashx  0%  100%  
+	    Novo Ficheiro  		    8404	wsdl.xslt  0%  100%  
+	  New Dir          5	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Xslt\
+	    Novo Ficheiro  		     667	macroGetCurrent.xsl  0%  100%  
+	    Novo Ficheiro  		    1178	macroGetSubs.xsl  0%  100%  
+	    Novo Ficheiro  		    1114	searchResult.xslt  0%  100%  
+	    Novo Ficheiro  		    1756	sqlNodeHierachy.xslt  0%  100%  
+	    Novo Ficheiro  		     594	Web.config  0%  100%  
+	  New Dir         15	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Xslt\Templates\
+	    Novo Ficheiro  		    1085	Breadcrumb.xslt  0%  100%  
+	    Novo Ficheiro  		     527	Clean.xslt  0%  100%  
+	    Novo Ficheiro  		    1264	ListSubPagesAsThumbnails.xslt  0%  100%  
+	    Novo Ficheiro  		    1063	ListSubPagesByDateAndLimit.xslt  0%  100%  
+	    Novo Ficheiro  		     918	ListSubPagesByDocumentType.xslt  0%  100%  
+	    Novo Ficheiro  		     886	ListSubPagesByLevel.xslt  0%  100%  
+	    Novo Ficheiro  		     956	ListSubPagesFromAChangableSource.xslt  0%  100%  
+	    Novo Ficheiro  		     756	ListSubPagesFromCurrentPage.xslt  0%  100%  
+	    Novo Ficheiro  		    1151	ListThumbnailsFromCurrentPage.xslt  0%  100%  
+	    Novo Ficheiro  		     771	ListWholeStructureFromCurrentPage.xslt  0%  100%  
+	    Novo Ficheiro  		    1280	NavigationPrototype.xslt  0%  100%  
+	    Novo Ficheiro  		    1701	RelatedLinks.xslt  0%  100%  
+	    Novo Ficheiro  		    3263	RSSFeed.xslt  0%  100%  
+	    Novo Ficheiro  		    1579	Sitemap.xslt  0%  100%  
+	    Novo Ficheiro  		    1586	TablePrototype.xslt  0%  100%  
+	  New Dir         15	C:\GitHub\EUL\EUL\packages\UmbracoCms.7.7.2\UmbracoFiles\Umbraco\Xslt\Templates\Schema2\
+	    Novo Ficheiro  		    1066	Breadcrumb.xslt  0%  100%  
+	    Novo Ficheiro  		     527	Clean.xslt  0%  100%  
+	    Novo Ficheiro  		    1015	ListSubPagesAsThumbnails.xslt  0%  100%  
+	    Novo Ficheiro  		    1055	ListSubPagesByDateAndLimit.xslt  0%  100%  
+	    Novo Ficheiro  		     891	ListSubPagesByDocumentType.xslt  0%  100%  
+	    Novo Ficheiro  		     875	ListSubPagesByLevel.xslt  0%  100%  
+	    Novo Ficheiro  		     948	ListSubPagesFromAChangableSource.xslt  0%  100%  
+	    Novo Ficheiro  		     748	ListSubPagesFromCurrentPage.xslt  0%  100%  
+	    Novo Ficheiro  		     893	ListThumbnailsFromCurrentPage.xslt  0%  100%  
+	    Novo Ficheiro  		     763	ListWholeStructureFromCurrentPage.xslt  0%  100%  
+	    Novo Ficheiro  		    1267	NavigationPrototype.xslt  0%  100%  
+	    Novo Ficheiro  		    1714	RelatedLinks.xslt  0%  100%  
+	    Novo Ficheiro  		    3251	RSSFeed.xslt  0%  100%  
+	    Novo Ficheiro  		    1567	Sitemap.xslt  0%  100%  
+	    Novo Ficheiro  		    1560	TablePrototype.xslt  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total  Copiados IgnoradosErro de correspondˆnciaCOM FALHAS    Extras
+    Dirs :       299       298         1         0         0         0
+Ficheiros :      1275      1274         1         0         0         0
+   Bytes :   18.41 m   18.40 m     4.2 k         0         0         0
+   Horas :   0:00:07   0:00:05                       0:00:00   0:00:02
+
+
+Velocidade :             3407341 Bytes/seg.
+Velocidade :             194.969 MegaBytes/min.
+
+Conclu¡do : Thu Oct 12 17:57:39 2017
